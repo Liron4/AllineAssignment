@@ -19,24 +19,28 @@ A small mono-repo containing a DB ETL script (Prisma + Postgres) and a Next.js f
 DATABASE_URL="postgresql://alline:alline123@localhost:5432/alline_db?schema=public"
 ```
 
-Note: to avoid duplication, this repo uses the **root `.env`** for both packages — `frontend/` and `db-setup-script/` will use this file (symlinks are created).
+Note: to avoid duplication, this repo uses the **root `.env`** for both packages — package scripts explicitly load it (for example via `dotenv -e ../.env -- <command>`), so no symlinks are required.
 
-2) Run DB setup:
+2) Run DB setup (install deps then setup):
 
 ```bash
-cd db-setup-script && npm run setup
+cd db-setup-script
+npm install
+npm run setup
 ```
 
-2.5) Return to the repo root:
+3) Return to the repo root:
 
 ```bash
 cd ..
 ```
 
-3) Start and test frontend:
+4) Start and test frontend (install deps then run dev):
 
 ```bash
-cd frontend && npm run dev
+cd frontend
+npm install
+npm run dev
 ```
 
 These concise steps should be run once per folder to set up and test the project.
