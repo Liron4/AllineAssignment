@@ -22,6 +22,7 @@ import {
 export interface City {
   symbol: number;
   name: string;
+  councilName: string;
 }
 
 interface CitySelectorProps {

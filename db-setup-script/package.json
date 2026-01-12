@@ -1,5 +1,5 @@
 {
-  "name": "alline-assignment",
+  "name": "allin-assignment",
   "version": "1.0.0",
   "description": "Cities and Streets ETL with Prisma and PostgreSQL",
   "main": "index.js",

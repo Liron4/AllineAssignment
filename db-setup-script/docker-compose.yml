@@ -3,18 +3,18 @@ version: '3.8'
 services:
   postgres:
     image: postgres:16-alpine
-    container_name: alline_postgres
+    container_name: allin_postgres
     restart: unless-stopped
     ports:
       - "5432:5432"
     environment:
-      POSTGRES_USER: alline
-      POSTGRES_PASSWORD: alline123
-      POSTGRES_DB: alline_db
+      POSTGRES_USER: allin
+      POSTGRES_PASSWORD: allin123
+      POSTGRES_DB: allin_db
     volumes:
       - postgres_data:/var/lib/postgresql/data
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U alline -d alline_db"]
+      test: ["CMD-SHELL", "pg_isready -U allin -d allin_db -p 5432"]
       interval: 10s
       timeout: 5s
       retries: 5

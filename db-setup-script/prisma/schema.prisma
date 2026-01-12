@@ -11,9 +11,10 @@ datasource db {
 }
 
 model City {
-  id      Int      @id @default(autoincrement())
-  symbol  Int      @unique
-  name    String
+  id          Int      @id @default(autoincrement())
+  symbol      Int      @unique
+  name        String
+  councilName String   @map("council_name")
 
   streets Street[]
 

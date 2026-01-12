@@ -1,5094 +1,6367 @@
 [
   {
     "symbol": 967,
-    "name": "אבו ג'ווייעד (שבט)"
+    "name": "אבו ג'ווייעד (שבט)",
+    "councilName": ""
   },
   {
     "symbol": 472,
-    "name": "אבו גוש"
+    "name": "אבו גוש",
+    "councilName": ""
   },
   {
     "symbol": 473,
-    "name": "אבו סנאן"
+    "name": "אבו סנאן",
+    "councilName": ""
   },
   {
     "symbol": 935,
-    "name": "אבו סריחאן (שבט)"
+    "name": "אבו סריחאן (שבט)",
+    "councilName": ""
   },
   {
     "symbol": 958,
-    "name": "אבו עבדון (שבט)"
+    "name": "אבו עבדון (שבט)",
+    "councilName": ""
   },
   {
     "symbol": 1042,
-    "name": "אבו עמאר (שבט)"
+    "name": "אבו עמאר (שבט)",
+    "councilName": ""
   },
   {
     "symbol": 932,
-    "name": "אבו עמרה (שבט)"
+    "name": "אבו עמרה (שבט)",
+    "councilName": ""
   },
   {
     "symbol": 968,
-    "name": "אבו קורינאת (שבט)"
+    "name": "אבו קורינאת (שבט)",
+    "councilName": ""
   },
   {
     "symbol": 1342,
-    "name": "אבו קרינאת (יישוב)"
+    "name": "אבו קרינאת (יישוב)",
+    "councilName": "נווה מדבר"
   },
   {
     "symbol": 966,
-    "name": "אבו רובייעה (שבט)"
+    "name": "אבו רובייעה (שבט)",
+    "councilName": ""
   },
   {
     "symbol": 961,
-    "name": "אבו רוקייק (שבט)"
+    "name": "אבו רוקייק (שבט)",
+    "councilName": ""
   },
   {
     "symbol": 1375,
-    "name": "אבו תלול"
+    "name": "אבו תלול",
+    "councilName": "נווה מדבר"
   },
   {
     "symbol": 652,
-    "name": "אבטין"
+    "name": "אבטין",
+    "councilName": "זבולון"
   },
   {
     "symbol": 1275,
-    "name": "אבטליון"
+    "name": "אבטליון",
+    "councilName": "משגב"
   },
   {
     "symbol": 679,
-    "name": "אביאל"
+    "name": "אביאל",
+    "councilName": "אלונה"
   },
   {
     "symbol": 1115,
-    "name": "אביבים"
+    "name": "אביבים",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 819,
-    "name": "אביגדור"
+    "name": "אביגדור",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 175,
-    "name": "אביחיל"
+    "name": "אביחיל",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 2052,
-    "name": "אביטל"
+    "name": "אביטל",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 1070,
-    "name": "אביעזר"
+    "name": "אביעזר",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1220,
-    "name": "אבירים"
+    "name": "אבירים",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 182,
-    "name": "אבן יהודה"
+    "name": "אבן יהודה",
+    "councilName": ""
   },
   {
     "symbol": 1081,
-    "name": "אבן מנחם"
+    "name": "אבן מנחם",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 783,
-    "name": "אבן ספיר"
+    "name": "אבן ספיר",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 400,
-    "name": "אבן שמואל"
+    "name": "אבן שמואל",
+    "councilName": "שפיר"
   },
   {
     "symbol": 4011,
-    "name": "אבני איתן"
+    "name": "אבני איתן",
+    "councilName": "גולן"
   },
   {
     "symbol": 3793,
-    "name": "אבני חפץ"
+    "name": "אבני חפץ",
+    "councilName": "שומרון"
   },
   {
     "symbol": 3786,
-    "name": "אבנת"
+    "name": "אבנת",
+    "councilName": "מגילות ים המלח"
   },
   {
     "symbol": 1311,
-    "name": "אבשלום"
+    "name": "אבשלום",
+    "councilName": "אשכול"
   },
   {
     "symbol": 3759,
-    "name": "אדורה"
+    "name": "אדורה",
+    "councilName": "הר חברון"
   },
   {
     "symbol": 113,
-    "name": "אדירים"
+    "name": "אדירים",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 1068,
-    "name": "אדמית"
+    "name": "אדמית",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 1123,
-    "name": "אדרת"
+    "name": "אדרת",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 446,
-    "name": "אודים"
+    "name": "אודים",
+    "councilName": "חוף השרון"
   },
   {
     "symbol": 4010,
-    "name": "אודם"
+    "name": "אודם",
+    "councilName": "גולן"
   },
   {
     "symbol": 1046,
-    "name": "אוהד"
+    "name": "אוהד",
+    "councilName": "אשכול"
   },
   {
     "symbol": 2710,
-    "name": "אום אל-פחם"
+    "name": "אום אל-פחם",
+    "councilName": ""
   },
   {
     "symbol": 2024,
-    "name": "אום אל-קוטוף"
+    "name": "אום אל-קוטוף",
+    "councilName": "מנשה"
   },
   {
     "symbol": 1358,
-    "name": "אום בטין"
+    "name": "אום בטין",
+    "councilName": "אל קסום"
   },
   {
     "symbol": 1108,
-    "name": "אומן"
+    "name": "אומן",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 680,
-    "name": "אומץ"
+    "name": "אומץ",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 31,
-    "name": "אופקים"
+    "name": "אופקים",
+    "councilName": ""
   },
   {
     "symbol": 1294,
-    "name": "אור הגנוז"
+    "name": "אור הגנוז",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 67,
-    "name": "אור הנר"
+    "name": "אור הנר",
+    "councilName": "שער הנגב"
   },
   {
     "symbol": 2400,
-    "name": "אור יהודה"
+    "name": "אור יהודה",
+    "councilName": ""
   },
   {
     "symbol": 1020,
-    "name": "אור עקיבא"
+    "name": "אור עקיבא",
+    "councilName": ""
   },
   {
     "symbol": 780,
-    "name": "אורה"
+    "name": "אורה",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 2012,
-    "name": "אורות"
+    "name": "אורות",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 4013,
-    "name": "אורטל"
+    "name": "אורטל",
+    "councilName": "גולן"
   },
   {
     "symbol": 403,
-    "name": "אורים"
+    "name": "אורים",
+    "councilName": "אשכול"
   },
   {
     "symbol": 882,
-    "name": "אורנים"
+    "name": "אורנים",
+    "councilName": "זבולון"
   },
   {
     "symbol": 3760,
-    "name": "אורנית"
+    "name": "אורנית",
+    "councilName": ""
   },
   {
     "symbol": 278,
-    "name": "אושה"
+    "name": "אושה",
+    "councilName": "זבולון"
   },
   {
     "symbol": 565,
-    "name": "אזור"
+    "name": "אזור",
+    "councilName": ""
   },
   {
     "symbol": 1157,
-    "name": "אחווה"
+    "name": "אחווה",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 821,
-    "name": "אחוזם"
+    "name": "אחוזם",
+    "councilName": "לכיש"
   },
   {
     "symbol": 1330,
-    "name": "אחוזת ברק"
+    "name": "אחוזת ברק",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 785,
-    "name": "אחיהוד"
+    "name": "אחיהוד",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 850,
-    "name": "אחיטוב"
+    "name": "אחיטוב",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 804,
-    "name": "אחיסמך"
+    "name": "אחיסמך",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 797,
-    "name": "אחיעזר"
+    "name": "אחיעזר",
+    "councilName": "שדות דן"
   },
   {
     "symbol": 965,
-    "name": "אטרש )שבט("
+    "name": "אטרש )שבט(",
+    "councilName": ""
   },
   {
     "symbol": 338,
-    "name": "איבים"
+    "name": "איבים",
+    "councilName": "שער הנגב"
   },
   {
     "symbol": 716,
-    "name": "אייל"
+    "name": "אייל",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 77,
-    "name": "איילת השחר"
+    "name": "איילת השחר",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 294,
-    "name": "אילון"
+    "name": "אילון",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 1126,
-    "name": "אילות"
+    "name": "אילות",
+    "councilName": "חבל אילות"
   },
   {
     "symbol": 49,
-    "name": "אילניה"
+    "name": "אילניה",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 2600,
-    "name": "אילת"
+    "name": "אילת",
+    "councilName": ""
   },
   {
     "symbol": 1336,
-    "name": "אירוס"
+    "name": "אירוס",
+    "councilName": "גן רווה"
   },
   {
     "symbol": 3762,
-    "name": "איתמר"
+    "name": "איתמר",
+    "councilName": "שומרון"
   },
   {
     "symbol": 37,
-    "name": "איתן"
+    "name": "איתן",
+    "councilName": "שפיר"
   },
   {
     "symbol": 886,
-    "name": "איתנים"
+    "name": "איתנים",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 478,
-    "name": "אכסאל"
+    "name": "אכסאל",
+    "councilName": ""
   },
   {
     "symbol": 1359,
-    "name": "אל סייד"
+    "name": "אל סייד",
+    "councilName": "אל קסום"
   },
   {
     "symbol": 1339,
-    "name": "אל-עזי"
+    "name": "אל-עזי",
+    "councilName": "יואב"
   },
   {
     "symbol": 1316,
-    "name": "אל-עריאן"
+    "name": "אל-עריאן",
+    "councilName": "מנשה"
   },
   {
     "symbol": 4003,
-    "name": "אל-רום"
+    "name": "אל-רום",
+    "councilName": "גולן"
   },
   {
     "symbol": 1145,
-    "name": "אלומה"
+    "name": "אלומה",
+    "councilName": "שפיר"
   },
   {
     "symbol": 330,
-    "name": "אלומות"
+    "name": "אלומות",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 1182,
-    "name": "אלון הגליל"
+    "name": "אלון הגליל",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 3579,
-    "name": "אלון מורה"
+    "name": "אלון מורה",
+    "councilName": "שומרון"
   },
   {
     "symbol": 3604,
-    "name": "אלון שבות"
+    "name": "אלון שבות",
+    "councilName": "גוש עציון"
   },
   {
     "symbol": 429,
-    "name": "אלוני אבא"
+    "name": "אלוני אבא",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 4017,
-    "name": "אלוני הבשן"
+    "name": "אלוני הבשן",
+    "councilName": "גולן"
   },
   {
     "symbol": 868,
-    "name": "אלוני יצחק"
+    "name": "אלוני יצחק",
+    "councilName": "מנשה"
   },
   {
     "symbol": 285,
-    "name": "אלונים"
+    "name": "אלונים",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 4002,
-    "name": "אלי-עד"
+    "name": "אלי-עד",
+    "councilName": "גולן"
   },
   {
     "symbol": 1365,
-    "name": "אליאב"
+    "name": "אליאב",
+    "councilName": "לכיש"
   },
   {
     "symbol": 41,
-    "name": "אליכין"
+    "name": "אליכין",
+    "councilName": ""
   },
   {
     "symbol": 1248,
-    "name": "אליפז"
+    "name": "אליפז",
+    "councilName": "חבל אילות"
   },
   {
     "symbol": 730,
-    "name": "אליפלט"
+    "name": "אליפלט",
+    "councilName": "מבואות החרמון"
   },
   {
     "symbol": 682,
-    "name": "אליקים"
+    "name": "אליקים",
+    "councilName": "מגידו"
   },
   {
     "symbol": 204,
-    "name": "אלישיב"
+    "name": "אלישיב",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 841,
-    "name": "אלישמע"
+    "name": "אלישמע",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 1125,
-    "name": "אלמגור"
+    "name": "אלמגור",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 3556,
-    "name": "אלמוג"
+    "name": "אלמוג",
+    "councilName": "מגילות ים המלח"
   },
   {
     "symbol": 1309,
-    "name": "אלעד"
+    "name": "אלעד",
+    "councilName": ""
   },
   {
     "symbol": 3618,
-    "name": "אלעזר"
+    "name": "אלעזר",
+    "councilName": "גוש עציון"
   },
   {
     "symbol": 3750,
-    "name": "אלפי מנשה"
+    "name": "אלפי מנשה",
+    "councilName": ""
   },
   {
     "symbol": 603,
-    "name": "אלקוש"
+    "name": "אלקוש",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 3560,
-    "name": "אלקנה"
+    "name": "אלקנה",
+    "councilName": ""
   },
   {
     "symbol": 772,
-    "name": "אמונים"
+    "name": "אמונים",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 1064,
-    "name": "אמירים"
+    "name": "אמירים",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 1253,
-    "name": "אמנון"
+    "name": "אמנון",
+    "councilName": "מבואות החרמון"
   },
   {
     "symbol": 23,
-    "name": "אמציה"
+    "name": "אמציה",
+    "councilName": "לכיש"
   },
   {
     "symbol": 4012,
-    "name": "אניעם"
+    "name": "אניעם",
+    "councilName": "גולן"
   },
   {
     "symbol": 960,
-    "name": "אסד )שבט("
+    "name": "אסד )שבט(",
+    "councilName": ""
   },
   {
     "symbol": 3754,
-    "name": "אספר"
+    "name": "אספר",
+    "councilName": "גוש עציון"
   },
   {
     "symbol": 529,
-    "name": "אעבלין"
+    "name": "אעבלין",
+    "councilName": ""
   },
   {
     "symbol": 963,
-    "name": "אעצם )שבט("
+    "name": "אעצם )שבט(",
+    "councilName": ""
   },
   {
     "symbol": 959,
-    "name": "אפיניש )שבט("
+    "name": "אפיניש )שבט(",
+    "councilName": ""
   },
   {
     "symbol": 4301,
-    "name": "אפיק"
+    "name": "אפיק",
+    "councilName": "גולן"
   },
   {
     "symbol": 176,
-    "name": "אפיקים"
+    "name": "אפיקים",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 313,
-    "name": "אפק"
+    "name": "אפק",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 3650,
-    "name": "אפרת"
+    "name": "אפרת",
+    "councilName": ""
   },
   {
     "symbol": 701,
-    "name": "ארבל"
+    "name": "ארבל",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 3598,
-    "name": "ארגמן"
+    "name": "ארגמן",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 714,
-    "name": "ארז"
+    "name": "ארז",
+    "councilName": "שער הנגב"
   },
   {
     "symbol": 3570,
-    "name": "אריאל"
+    "name": "אריאל",
+    "councilName": ""
   },
   {
     "symbol": 1324,
-    "name": "ארסוף"
+    "name": "ארסוף",
+    "councilName": "חוף השרון"
   },
   {
     "symbol": 71,
-    "name": "אשבול"
+    "name": "אשבול",
+    "councilName": "מרחבים"
   },
   {
     "symbol": 1276,
-    "name": "אשבל"
+    "name": "אשבל",
+    "councilName": "משגב"
   },
   {
     "symbol": 70,
-    "name": "אשדוד"
+    "name": "אשדוד",
+    "councilName": ""
   },
   {
     "symbol": 199,
-    "name": "אשדות יעקב  )איחוד("
+    "name": "אשדות יעקב  )איחוד(",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 188,
-    "name": "אשדות יעקב  )מאוחד("
+    "name": "אשדות יעקב  )מאוחד(",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 1188,
-    "name": "אשחר"
+    "name": "אשחר",
+    "councilName": "משגב"
   },
   {
     "symbol": 3722,
-    "name": "אשכולות"
+    "name": "אשכולות",
+    "councilName": "הר חברון"
   },
   {
     "symbol": 2021,
-    "name": "אשל הנשיא"
+    "name": "אשל הנשיא",
+    "councilName": "מרחבים"
   },
   {
     "symbol": 1152,
-    "name": "אשלים"
+    "name": "אשלים",
+    "councilName": "רמת נגב"
   },
   {
     "symbol": 7100,
-    "name": "אשקלון"
+    "name": "אשקלון",
+    "councilName": ""
   },
   {
     "symbol": 1256,
-    "name": "אשרת"
+    "name": "אשרת",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 740,
-    "name": "אשתאול"
+    "name": "אשתאול",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1298,
-    "name": "אתגר"
+    "name": "אתגר",
+    "councilName": "משגב"
   },
   {
     "symbol": 6000,
-    "name": "באקה אל-גרביה"
+    "name": "באקה אל-גרביה",
+    "councilName": ""
   },
   {
     "symbol": 21,
-    "name": "באר אורה"
+    "name": "באר אורה",
+    "councilName": "חבל אילות"
   },
   {
     "symbol": 1376,
-    "name": "באר גנים"
+    "name": "באר גנים",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 155,
-    "name": "באר טוביה"
+    "name": "באר טוביה",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 2530,
-    "name": "באר יעקב"
+    "name": "באר יעקב",
+    "councilName": ""
   },
   {
     "symbol": 1278,
-    "name": "באר מילכה"
+    "name": "באר מילכה",
+    "councilName": "רמת נגב"
   },
   {
     "symbol": 9000,
-    "name": "באר שבע"
+    "name": "באר שבע",
+    "councilName": ""
   },
   {
     "symbol": 450,
-    "name": "בארות יצחק"
+    "name": "בארות יצחק",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 697,
-    "name": "בארותיים"
+    "name": "בארותיים",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 399,
-    "name": "בארי"
+    "name": "בארי",
+    "councilName": "אשכול"
   },
   {
     "symbol": 559,
-    "name": "בוסתן הגליל"
+    "name": "בוסתן הגליל",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 482,
-    "name": "בועיינה-נוג'ידאת"
+    "name": "בועיינה-נוג'ידאת",
+    "councilName": ""
   },
   {
     "symbol": 4001,
-    "name": "בוקעאתא"
+    "name": "בוקעאתא",
+    "councilName": ""
   },
   {
     "symbol": 698,
-    "name": "בורגתה"
+    "name": "בורגתה",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 2043,
-    "name": "בחן"
+    "name": "בחן",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 762,
-    "name": "בטחה"
+    "name": "בטחה",
+    "councilName": "מרחבים"
   },
   {
     "symbol": 234,
-    "name": "ביצרון"
+    "name": "ביצרון",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 998,
-    "name": "ביר אל-מכסור"
+    "name": "ביר אל-מכסור",
+    "councilName": ""
   },
   {
     "symbol": 1348,
-    "name": "ביר הדאג'"
+    "name": "ביר הדאג'",
+    "councilName": "נווה מדבר"
   },
   {
     "symbol": 368,
-    "name": "ביריה"
+    "name": "ביריה",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 317,
-    "name": "בית אורן"
+    "name": "בית אורן",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 3574,
-    "name": "בית אל"
+    "name": "בית אל",
+    "councilName": ""
   },
   {
     "symbol": 562,
-    "name": "בית אלעזרי"
+    "name": "בית אלעזרי",
+    "councilName": "ברנר"
   },
   {
     "symbol": 95,
-    "name": "בית אלפא"
+    "name": "בית אלפא",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 3652,
-    "name": "בית אריה"
+    "name": "בית אריה",
+    "councilName": ""
   },
   {
     "symbol": 1076,
-    "name": "בית ברל"
+    "name": "בית ברל",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 480,
-    "name": "בית ג'ן"
+    "name": "בית ג'ן",
+    "councilName": ""
   },
   {
     "symbol": 619,
-    "name": "בית גוברין"
+    "name": "בית גוברין",
+    "councilName": "יואב"
   },
   {
     "symbol": 571,
-    "name": "בית גמליאל"
+    "name": "בית גמליאל",
+    "councilName": "חבל יבנה"
   },
   {
     "symbol": 466,
-    "name": "בית דגן"
+    "name": "בית דגן",
+    "councilName": ""
   },
   {
     "symbol": 723,
-    "name": "בית הגדי"
+    "name": "בית הגדי",
+    "councilName": "שדות נגב"
   },
   {
     "symbol": 373,
-    "name": "בית הלוי"
+    "name": "בית הלוי",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 322,
-    "name": "בית הלל"
+    "name": "בית הלל",
+    "councilName": "מבואות החרמון"
   },
   {
     "symbol": 572,
-    "name": "בית העמק"
+    "name": "בית העמק",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 3645,
-    "name": "בית הערבה"
+    "name": "בית הערבה",
+    "councilName": "מגילות ים המלח"
   },
   {
     "symbol": 242,
-    "name": "בית השיטה"
+    "name": "בית השיטה",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 353,
-    "name": "בית זיד"
+    "name": "בית זיד",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 710,
-    "name": "בית זית"
+    "name": "בית זית",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 143,
-    "name": "בית זרע"
+    "name": "בית זרע",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 3575,
-    "name": "בית חורון"
+    "name": "בית חורון",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 877,
-    "name": "בית חירות"
+    "name": "בית חירות",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 2033,
-    "name": "בית חלקיה"
+    "name": "בית חלקיה",
+    "councilName": "נחל שורק"
   },
   {
     "symbol": 159,
-    "name": "בית חנן"
+    "name": "בית חנן",
+    "councilName": "גן רווה"
   },
   {
     "symbol": 800,
-    "name": "בית חנניה"
+    "name": "בית חנניה",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 1050,
-    "name": "בית חשמונאי"
+    "name": "בית חשמונאי",
+    "councilName": "גזר"
   },
   {
     "symbol": 288,
-    "name": "בית יהושע"
+    "name": "בית יהושע",
+    "councilName": "חוף השרון"
   },
   {
     "symbol": 265,
-    "name": "בית יוסף"
+    "name": "בית יוסף",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 200,
-    "name": "בית ינאי"
+    "name": "בית ינאי",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 326,
-    "name": "בית יצחק-שער חפר"
+    "name": "בית יצחק-שער חפר",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 430,
-    "name": "בית לחם הגלילית"
+    "name": "בית לחם הגלילית",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 751,
-    "name": "בית מאיר"
+    "name": "בית מאיר",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 784,
-    "name": "בית נחמיה"
+    "name": "בית נחמיה",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 16,
-    "name": "בית ניר"
+    "name": "בית ניר",
+    "councilName": "יואב"
   },
   {
     "symbol": 672,
-    "name": "בית נקופה"
+    "name": "בית נקופה",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 202,
-    "name": "בית עובד"
+    "name": "בית עובד",
+    "councilName": "גן רווה"
   },
   {
     "symbol": 301,
-    "name": "בית עוזיאל"
+    "name": "בית עוזיאל",
+    "councilName": "גזר"
   },
   {
     "symbol": 756,
-    "name": "בית עזרא"
+    "name": "בית עזרא",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 604,
-    "name": "בית עריף"
+    "name": "בית עריף",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 212,
-    "name": "בית צבי"
+    "name": "בית צבי",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 598,
-    "name": "בית קמה"
+    "name": "בית קמה",
+    "councilName": "בני שמעון"
   },
   {
     "symbol": 365,
-    "name": "בית קשת"
+    "name": "בית קשת",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 848,
-    "name": "בית רבן"
+    "name": "בית רבן",
+    "councilName": "חבל יבנה"
   },
   {
     "symbol": 1162,
-    "name": "בית רימון"
+    "name": "בית רימון",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 9200,
-    "name": "בית שאן"
+    "name": "בית שאן",
+    "councilName": ""
   },
   {
     "symbol": 2610,
-    "name": "בית שמש"
+    "name": "בית שמש",
+    "councilName": ""
   },
   {
     "symbol": 248,
-    "name": "בית שערים"
+    "name": "בית שערים",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 747,
-    "name": "בית שקמה"
+    "name": "בית שקמה",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 252,
-    "name": "ביתן אהרן"
+    "name": "ביתן אהרן",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 3780,
-    "name": "ביתר עילית"
+    "name": "ביתר עילית",
+    "councilName": ""
   },
   {
     "symbol": 94,
-    "name": "בלפוריה"
+    "name": "בלפוריה",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 760,
-    "name": "בן זכאי"
+    "name": "בן זכאי",
+    "councilName": "חבל יבנה"
   },
   {
     "symbol": 712,
-    "name": "בן עמי"
+    "name": "בן עמי",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 1084,
-    "name": "בן שמן )כפר נוער("
+    "name": "בן שמן )כפר נוער(",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 2013,
-    "name": "בן שמן )מושב("
+    "name": "בן שמן )מושב(",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 6100,
-    "name": "בני ברק"
+    "name": "בני ברק",
+    "councilName": ""
   },
   {
     "symbol": 1368,
-    "name": "בני דקלים"
+    "name": "בני דקלים",
+    "councilName": "לכיש"
   },
   {
     "symbol": 592,
-    "name": "בני דרום"
+    "name": "בני דרום",
+    "councilName": "חבל יבנה"
   },
   {
     "symbol": 386,
-    "name": "בני דרור"
+    "name": "בני דרור",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 4015,
-    "name": "בני יהודה"
+    "name": "בני יהודה",
+    "councilName": "גולן"
   },
   {
     "symbol": 1363,
-    "name": "בני נצרים"
+    "name": "בני נצרים",
+    "councilName": "אשכול"
   },
   {
     "symbol": 448,
-    "name": "בני עטרות"
+    "name": "בני עטרות",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 1066,
-    "name": "בני עי\"ש"
+    "name": "בני עי\"ש",
+    "councilName": ""
   },
   {
     "symbol": 418,
-    "name": "בני ציון"
+    "name": "בני ציון",
+    "councilName": "חוף השרון"
   },
   {
     "symbol": 588,
-    "name": "בני ראם"
+    "name": "בני ראם",
+    "councilName": "נחל שורק"
   },
   {
     "symbol": 685,
-    "name": "בניה"
+    "name": "בניה",
+    "councilName": "ברנר"
   },
   {
     "symbol": 9800,
-    "name": "בנימינה-גבעת עדה"
+    "name": "בנימינה-גבעת עדה",
+    "councilName": ""
   },
   {
     "symbol": 1326,
-    "name": "בסמ\"ה"
+    "name": "בסמ\"ה",
+    "councilName": ""
   },
   {
     "symbol": 944,
-    "name": "בסמת טבעון"
+    "name": "בסמת טבעון",
+    "councilName": ""
   },
   {
     "symbol": 483,
-    "name": "בענה"
+    "name": "בענה",
+    "councilName": ""
   },
   {
     "symbol": 389,
-    "name": "בצרה"
+    "name": "בצרה",
+    "councilName": "חוף השרון"
   },
   {
     "symbol": 589,
-    "name": "בצת"
+    "name": "בצת",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 864,
-    "name": "בקוע"
+    "name": "בקוע",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 3612,
-    "name": "בקעות"
+    "name": "בקעות",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 823,
-    "name": "בר גיורא"
+    "name": "בר גיורא",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1191,
-    "name": "בר יוחאי"
+    "name": "בר יוחאי",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 3744,
-    "name": "ברוכין"
+    "name": "ברוכין",
+    "councilName": "שומרון"
   },
   {
     "symbol": 428,
-    "name": "ברור חיל"
+    "name": "ברור חיל",
+    "councilName": "שער הנגב"
   },
   {
     "symbol": 2060,
-    "name": "ברוש"
+    "name": "ברוש",
+    "councilName": "בני שמעון"
   },
   {
     "symbol": 3710,
-    "name": "ברכה"
+    "name": "ברכה",
+    "councilName": "שומרון"
   },
   {
     "symbol": 746,
-    "name": "ברכיה"
+    "name": "ברכיה",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 667,
-    "name": "ברעם"
+    "name": "ברעם",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 141,
-    "name": "ברק"
+    "name": "ברק",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 617,
-    "name": "ברקאי"
+    "name": "ברקאי",
+    "councilName": "מנשה"
   },
   {
     "symbol": 3654,
-    "name": "ברקן"
+    "name": "ברקן",
+    "councilName": "שומרון"
   },
   {
     "symbol": 2038,
-    "name": "ברקת"
+    "name": "ברקת",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 1323,
-    "name": "בת הדר"
+    "name": "בת הדר",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 1361,
-    "name": "בת חן"
+    "name": "בת חן",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 1319,
-    "name": "בת חפר"
+    "name": "בת חפר",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 1401,
-    "name": "בת חצור"
+    "name": "בת חצור",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 6200,
-    "name": "בת ים"
+    "name": "בת ים",
+    "councilName": ""
   },
   {
     "symbol": 3794,
-    "name": "בת עין"
+    "name": "בת עין",
+    "councilName": "גוש עציון"
   },
   {
     "symbol": 33,
-    "name": "בת שלמה"
+    "name": "בת שלמה",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 1292,
-    "name": "ג'דיידה-מכר"
+    "name": "ג'דיידה-מכר",
+    "councilName": ""
   },
   {
     "symbol": 485,
-    "name": "ג'ולס"
+    "name": "ג'ולס",
+    "councilName": ""
   },
   {
     "symbol": 627,
-    "name": "ג'לג'וליה"
+    "name": "ג'לג'וליה",
+    "councilName": ""
   },
   {
     "symbol": 976,
-    "name": "ג'נאביב )שבט("
+    "name": "ג'נאביב )שבט(",
+    "councilName": ""
   },
   {
     "symbol": 541,
-    "name": "ג'סר א-זרקא"
+    "name": "ג'סר א-זרקא",
+    "councilName": ""
   },
   {
     "symbol": 487,
-    "name": "ג'ש )גוש חלב("
+    "name": "ג'ש )גוש חלב(",
+    "councilName": ""
   },
   {
     "symbol": 628,
-    "name": "ג'ת"
+    "name": "ג'ת",
+    "councilName": ""
   },
   {
     "symbol": 872,
-    "name": "גאולי תימן"
+    "name": "גאולי תימן",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 379,
-    "name": "גאולים"
+    "name": "גאולים",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 853,
-    "name": "גאליה"
+    "name": "גאליה",
+    "councilName": "גן רווה"
   },
   {
     "symbol": 352,
-    "name": "גבולות"
+    "name": "גבולות",
+    "councilName": "אשכול"
   },
   {
     "symbol": 424,
-    "name": "גבים"
+    "name": "גבים",
+    "councilName": "שער הנגב"
   },
   {
     "symbol": 86,
-    "name": "גבע"
+    "name": "גבע",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 3763,
-    "name": "גבע בנימין"
+    "name": "גבע בנימין",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 683,
-    "name": "גבע כרמל"
+    "name": "גבע כרמל",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 2014,
-    "name": "גבעולים"
+    "name": "גבעולים",
+    "councilName": "שדות נגב"
   },
   {
     "symbol": 3644,
-    "name": "גבעון החדשה"
+    "name": "גבעון החדשה",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 1344,
-    "name": "גבעות בר"
+    "name": "גבעות בר",
+    "councilName": "בני שמעון"
   },
   {
     "symbol": 1293,
-    "name": "גבעת אבני"
+    "name": "גבעת אבני",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 1288,
-    "name": "גבעת אלה"
+    "name": "גבעת אלה",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 147,
-    "name": "גבעת ברנר"
+    "name": "גבעת ברנר",
+    "councilName": "ברנר"
   },
   {
     "symbol": 870,
-    "name": "גבעת השלושה"
+    "name": "גבעת השלושה",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 3730,
-    "name": "גבעת זאב"
+    "name": "גבעת זאב",
+    "councilName": ""
   },
   {
     "symbol": 207,
-    "name": "גבעת ח\"ן"
+    "name": "גבעת ח\"ן",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 2018,
-    "name": "גבעת חיים )איחוד("
+    "name": "גבעת חיים )איחוד(",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 173,
-    "name": "גבעת חיים )מאוחד("
+    "name": "גבעת חיים )מאוחד(",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 4021,
-    "name": "גבעת יואב"
+    "name": "גבעת יואב",
+    "councilName": "גולן"
   },
   {
     "symbol": 787,
-    "name": "גבעת יערים"
+    "name": "גבעת יערים",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 919,
-    "name": "גבעת ישעיהו"
+    "name": "גבעת ישעיהו",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 802,
-    "name": "גבעת כ\"ח"
+    "name": "גבעת כ\"ח",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 360,
-    "name": "גבעת ניל\"י"
+    "name": "גבעת ניל\"י",
+    "councilName": "אלונה"
   },
   {
     "symbol": 703,
-    "name": "גבעת עוז"
+    "name": "גבעת עוז",
+    "councilName": "מגידו"
   },
   {
     "symbol": 681,
-    "name": "גבעת שמואל"
+    "name": "גבעת שמואל",
+    "councilName": ""
   },
   {
     "symbol": 566,
-    "name": "גבעת שמש"
+    "name": "גבעת שמש",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1077,
-    "name": "גבעת שפירא"
+    "name": "גבעת שפירא",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 793,
-    "name": "גבעתי"
+    "name": "גבעתי",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 6300,
-    "name": "גבעתיים"
+    "name": "גבעתיים",
+    "councilName": ""
   },
   {
     "symbol": 342,
-    "name": "גברעם"
+    "name": "גברעם",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 133,
-    "name": "גבת"
+    "name": "גבת",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 35,
-    "name": "גדות"
+    "name": "גדות",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 145,
-    "name": "גדיש"
+    "name": "גדיש",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 442,
-    "name": "גדעונה"
+    "name": "גדעונה",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 2550,
-    "name": "גדרה"
+    "name": "גדרה",
+    "councilName": ""
   },
   {
     "symbol": 852,
-    "name": "גונן"
+    "name": "גונן",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 755,
-    "name": "גורן"
+    "name": "גורן",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 1219,
-    "name": "גורנות הגליל"
+    "name": "גורנות הגליל",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 457,
-    "name": "גזית"
+    "name": "גזית",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 370,
-    "name": "גזר"
+    "name": "גזר",
+    "councilName": "גזר"
   },
   {
     "symbol": 706,
-    "name": "גיאה"
+    "name": "גיאה",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 196,
-    "name": "גיבתון"
+    "name": "גיבתון",
+    "councilName": "ברנר"
   },
   {
     "symbol": 1043,
-    "name": "גיזו"
+    "name": "גיזו",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1204,
-    "name": "גילון"
+    "name": "גילון",
+    "councilName": "משגב"
   },
   {
     "symbol": 736,
-    "name": "גילת"
+    "name": "גילת",
+    "councilName": "מרחבים"
   },
   {
     "symbol": 262,
-    "name": "גינוסר"
+    "name": "גינוסר",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 92,
-    "name": "גיניגר"
+    "name": "גיניגר",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 863,
-    "name": "גינתון"
+    "name": "גינתון",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 1206,
-    "name": "גיתה"
+    "name": "גיתה",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 3613,
-    "name": "גיתית"
+    "name": "גיתית",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 393,
-    "name": "גלאון"
+    "name": "גלאון",
+    "councilName": "יואב"
   },
   {
     "symbol": 3606,
-    "name": "גלגל"
+    "name": "גלגל",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 346,
-    "name": "גליל ים"
+    "name": "גליל ים",
+    "councilName": "חוף השרון"
   },
   {
     "symbol": 369,
-    "name": "גלעד )אבן יצחק("
+    "name": "גלעד )אבן יצחק(",
+    "councilName": "מגידו"
   },
   {
     "symbol": 745,
-    "name": "גמזו"
+    "name": "גמזו",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 1072,
-    "name": "גן הדרום"
+    "name": "גן הדרום",
+    "councilName": "גדרות"
   },
   {
     "symbol": 225,
-    "name": "גן השומרון"
+    "name": "גן השומרון",
+    "councilName": "מנשה"
   },
   {
     "symbol": 239,
-    "name": "גן חיים"
+    "name": "גן חיים",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 734,
-    "name": "גן יאשיה"
+    "name": "גן יאשיה",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 166,
-    "name": "גן יבנה"
+    "name": "גן יבנה",
+    "councilName": ""
   },
   {
     "symbol": 1274,
-    "name": "גן נר"
+    "name": "גן נר",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 311,
-    "name": "גן שורק"
+    "name": "גן שורק",
+    "councilName": "גן רווה"
   },
   {
     "symbol": 144,
-    "name": "גן שלמה"
+    "name": "גן שלמה",
+    "councilName": "ברנר"
   },
   {
     "symbol": 72,
-    "name": "גן שמואל"
+    "name": "גן שמואל",
+    "councilName": "מנשה"
   },
   {
     "symbol": 836,
-    "name": "גנות"
+    "name": "גנות",
+    "councilName": "שדות דן"
   },
   {
     "symbol": 549,
-    "name": "גנות הדר"
+    "name": "גנות הדר",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 1103,
-    "name": "גני הדר"
+    "name": "גני הדר",
+    "councilName": "גזר"
   },
   {
     "symbol": 1371,
-    "name": "גני טל"
+    "name": "גני טל",
+    "councilName": "נחל שורק"
   },
   {
     "symbol": 862,
-    "name": "גני יוחנן"
+    "name": "גני יוחנן",
+    "councilName": "גזר"
   },
   {
     "symbol": 3823,
-    "name": "גני מודיעין"
+    "name": "גני מודיעין",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 218,
-    "name": "גני עם"
+    "name": "גני עם",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 229,
-    "name": "גני תקווה"
+    "name": "גני תקווה",
+    "councilName": ""
   },
   {
     "symbol": 842,
-    "name": "געש"
+    "name": "געש",
+    "councilName": "חוף השרון"
   },
   {
     "symbol": 463,
-    "name": "געתון"
+    "name": "געתון",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 39,
-    "name": "גפן"
+    "name": "גפן",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1129,
-    "name": "גרופית"
+    "name": "גרופית",
+    "councilName": "חבל אילות"
   },
   {
     "symbol": 4022,
-    "name": "גשור"
+    "name": "גשור",
+    "councilName": "גולן"
   },
   {
     "symbol": 305,
-    "name": "גשר"
+    "name": "גשר",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 574,
-    "name": "גשר הזיו"
+    "name": "גשר הזיו",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 340,
-    "name": "גת )קיבוץ("
+    "name": "גת )קיבוץ(",
+    "councilName": "יואב"
   },
   {
     "symbol": 128,
-    "name": "גת רימון"
+    "name": "גת רימון",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 494,
-    "name": "דאלית אל-כרמל"
+    "name": "דאלית אל-כרמל",
+    "councilName": ""
   },
   {
     "symbol": 146,
-    "name": "דבורה"
+    "name": "דבורה",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 489,
-    "name": "דבוריה"
+    "name": "דבוריה",
+    "councilName": ""
   },
   {
     "symbol": 849,
-    "name": "דבירה"
+    "name": "דבירה",
+    "councilName": "בני שמעון"
   },
   {
     "symbol": 407,
-    "name": "דברת"
+    "name": "דברת",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 62,
-    "name": "דגניה א'"
+    "name": "דגניה א'",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 79,
-    "name": "דגניה ב'"
+    "name": "דגניה ב'",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 1067,
-    "name": "דוב\"ב"
+    "name": "דוב\"ב",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 3747,
-    "name": "דולב"
+    "name": "דולב",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 738,
-    "name": "דור"
+    "name": "דור",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 336,
-    "name": "דורות"
+    "name": "דורות",
+    "councilName": "שער הנגב"
   },
   {
     "symbol": 475,
-    "name": "דחי"
+    "name": "דחי",
+    "councilName": "בוסתאן אל-מרג'"
   },
   {
     "symbol": 490,
-    "name": "דייר אל-אסד"
+    "name": "דייר אל-אסד",
+    "councilName": ""
   },
   {
     "symbol": 492,
-    "name": "דייר חנא"
+    "name": "דייר חנא",
+    "councilName": ""
   },
   {
     "symbol": 493,
-    "name": "דייר ראפאת"
+    "name": "דייר ראפאת",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 2200,
-    "name": "דימונה"
+    "name": "דימונה",
+    "councilName": ""
   },
   {
     "symbol": 2063,
-    "name": "דישון"
+    "name": "דישון",
+    "councilName": "מבואות החרמון"
   },
   {
     "symbol": 300,
-    "name": "דליה"
+    "name": "דליה",
+    "councilName": "מגידו"
   },
   {
     "symbol": 431,
-    "name": "דלתון"
+    "name": "דלתון",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 1317,
-    "name": "דמיידה"
+    "name": "דמיידה",
+    "councilName": "משגב"
   },
   {
     "symbol": 303,
-    "name": "דן"
+    "name": "דן",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 302,
-    "name": "דפנה"
+    "name": "דפנה",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 1241,
-    "name": "דקל"
+    "name": "דקל",
+    "councilName": "אשכול"
   },
   {
     "symbol": 1349,
-    "name": "דריג'את"
+    "name": "דריג'את",
+    "councilName": "אל קסום"
   },
   {
     "symbol": 702,
-    "name": "האון"
+    "name": "האון",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 675,
-    "name": "הבונים"
+    "name": "הבונים",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 356,
-    "name": "הגושרים"
+    "name": "הגושרים",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 191,
-    "name": "הדר עם"
+    "name": "הדר עם",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 9700,
-    "name": "הוד השרון"
+    "name": "הוד השרון",
+    "councilName": ""
   },
   {
     "symbol": 726,
-    "name": "הודיה"
+    "name": "הודיה",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 1322,
-    "name": "הודיות"
+    "name": "הודיות",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 1169,
-    "name": "הוואשלה )שבט("
+    "name": "הוואשלה )שבט(",
+    "councilName": ""
   },
   {
     "symbol": 956,
-    "name": "הוזייל )שבט("
+    "name": "הוזייל )שבט(",
+    "councilName": ""
   },
   {
     "symbol": 1186,
-    "name": "הושעיה"
+    "name": "הושעיה",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 250,
-    "name": "הזורע"
+    "name": "הזורע",
+    "councilName": "מגידו"
   },
   {
     "symbol": 307,
-    "name": "הזורעים"
+    "name": "הזורעים",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 434,
-    "name": "החותרים"
+    "name": "החותרים",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 684,
-    "name": "היוגב"
+    "name": "היוגב",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 1208,
-    "name": "הילה"
+    "name": "הילה",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 377,
-    "name": "המעפיל"
+    "name": "המעפיל",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 677,
-    "name": "הסוללים"
+    "name": "הסוללים",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 423,
-    "name": "העוגן"
+    "name": "העוגן",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 3769,
-    "name": "הר אדר"
+    "name": "הר אדר",
+    "councilName": ""
   },
   {
     "symbol": 3603,
-    "name": "הר גילה"
+    "name": "הר גילה",
+    "councilName": "גוש עציון"
   },
   {
     "symbol": 1261,
-    "name": "הר עמשא"
+    "name": "הר עמשא",
+    "councilName": "תמר"
   },
   {
     "symbol": 464,
-    "name": "הראל"
+    "name": "הראל",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1249,
-    "name": "הרדוף"
+    "name": "הרדוף",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 6400,
-    "name": "הרצליה"
+    "name": "הרצליה",
+    "councilName": ""
   },
   {
     "symbol": 1203,
-    "name": "הררית"
+    "name": "הררית",
+    "councilName": "משגב"
   },
   {
     "symbol": 3639,
-    "name": "ורד יריחו"
+    "name": "ורד יריחו",
+    "councilName": "מגילות ים המלח"
   },
   {
     "symbol": 1133,
-    "name": "ורדון"
+    "name": "ורדון",
+    "councilName": "יואב"
   },
   {
     "symbol": 2742,
-    "name": "זבארגה )שבט("
+    "name": "זבארגה )שבט(",
+    "councilName": ""
   },
   {
     "symbol": 815,
-    "name": "זבדיאל"
+    "name": "זבדיאל",
+    "councilName": "שפיר"
   },
   {
     "symbol": 44,
-    "name": "זוהר"
+    "name": "זוהר",
+    "councilName": "לכיש"
   },
   {
     "symbol": 584,
-    "name": "זיקים"
+    "name": "זיקים",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 788,
-    "name": "זיתן"
+    "name": "זיתן",
+    "councilName": "שדות דן"
   },
   {
     "symbol": 9300,
-    "name": "זכרון יעקב"
+    "name": "זכרון יעקב",
+    "councilName": ""
   },
   {
     "symbol": 799,
-    "name": "זכריה"
+    "name": "זכריה",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1290,
-    "name": "זמר"
+    "name": "זמר",
+    "councilName": ""
   },
   {
     "symbol": 1065,
-    "name": "זמרת"
+    "name": "זמרת",
+    "councilName": "שדות נגב"
   },
   {
     "symbol": 816,
-    "name": "זנוח"
+    "name": "זנוח",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 2064,
-    "name": "זרועה"
+    "name": "זרועה",
+    "councilName": "שדות נגב"
   },
   {
     "symbol": 975,
-    "name": "זרזיר"
+    "name": "זרזיר",
+    "councilName": ""
   },
   {
     "symbol": 818,
-    "name": "זרחיה"
+    "name": "זרחיה",
+    "councilName": "שפיר"
   },
   {
     "symbol": 1321,
-    "name": "ח'ואלד"
+    "name": "ח'ואלד",
+    "councilName": "זבולון"
   },
   {
     "symbol": 986,
-    "name": "ח'ואלד )שבט("
+    "name": "ח'ואלד )שבט(",
+    "councilName": "זבולון"
   },
   {
     "symbol": 235,
-    "name": "חבצלת השרון"
+    "name": "חבצלת השרון",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 1110,
-    "name": "חבר"
+    "name": "חבר",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 3400,
-    "name": "חברון"
+    "name": "חברון",
+    "councilName": ""
   },
   {
     "symbol": 717,
-    "name": "חגור"
+    "name": "חגור",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 3764,
-    "name": "חגי"
+    "name": "חגי",
+    "councilName": "הר חברון"
   },
   {
     "symbol": 205,
-    "name": "חגלה"
+    "name": "חגלה",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 4026,
-    "name": "חד-נס"
+    "name": "חד-נס",
+    "councilName": "גולן"
   },
   {
     "symbol": 618,
-    "name": "חדיד"
+    "name": "חדיד",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 6500,
-    "name": "חדרה"
+    "name": "חדרה",
+    "councilName": ""
   },
   {
     "symbol": 948,
-    "name": "חוג'ייראת )ד'הרה("
+    "name": "חוג'ייראת )ד'הרה(",
+    "councilName": "משגב"
   },
   {
     "symbol": 160,
-    "name": "חולדה"
+    "name": "חולדה",
+    "councilName": "גזר"
   },
   {
     "symbol": 6600,
-    "name": "חולון"
+    "name": "חולון",
+    "councilName": ""
   },
   {
     "symbol": 1239,
-    "name": "חולית"
+    "name": "חולית",
+    "councilName": "אשכול"
   },
   {
     "symbol": 253,
-    "name": "חולתה"
+    "name": "חולתה",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 662,
-    "name": "חוסן"
+    "name": "חוסן",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 1332,
-    "name": "חוסנייה"
+    "name": "חוסנייה",
+    "councilName": "משגב"
   },
   {
     "symbol": 115,
-    "name": "חופית"
+    "name": "חופית",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 374,
-    "name": "חוקוק"
+    "name": "חוקוק",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 1303,
-    "name": "חורה"
+    "name": "חורה",
+    "councilName": ""
   },
   {
     "symbol": 496,
-    "name": "חורפיש"
+    "name": "חורפיש",
+    "councilName": ""
   },
   {
     "symbol": 355,
-    "name": "חורשים"
+    "name": "חורשים",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 1047,
-    "name": "חזון"
+    "name": "חזון",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 219,
-    "name": "חיבת ציון"
+    "name": "חיבת ציון",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 3643,
-    "name": "חיננית"
+    "name": "חיננית",
+    "councilName": "שומרון"
   },
   {
     "symbol": 4000,
-    "name": "חיפה"
+    "name": "חיפה",
+    "councilName": ""
   },
   {
     "symbol": 162,
-    "name": "חירות"
+    "name": "חירות",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 1272,
-    "name": "חלוץ"
+    "name": "חלוץ",
+    "councilName": "משגב"
   },
   {
     "symbol": 820,
-    "name": "חלץ"
+    "name": "חלץ",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 993,
-    "name": "חמאם"
+    "name": "חמאם",
+    "councilName": "אל-בטוף"
   },
   {
     "symbol": 801,
-    "name": "חמד"
+    "name": "חמד",
+    "councilName": "שדות דן"
   },
   {
     "symbol": 343,
-    "name": "חמדיה"
+    "name": "חמדיה",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 3646,
-    "name": "חמדת"
+    "name": "חמדת",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 3609,
-    "name": "חמרה"
+    "name": "חמרה",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 807,
-    "name": "חניאל"
+    "name": "חניאל",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 280,
-    "name": "חניתה"
+    "name": "חניתה",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 1257,
-    "name": "חנתון"
+    "name": "חנתון",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 4005,
-    "name": "חספין"
+    "name": "חספין",
+    "councilName": "גולן"
   },
   {
     "symbol": 363,
-    "name": "חפץ חיים"
+    "name": "חפץ חיים",
+    "councilName": "נחל שורק"
   },
   {
     "symbol": 90,
-    "name": "חפצי-בה"
+    "name": "חפצי-בה",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 700,
-    "name": "חצב"
+    "name": "חצב",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 13,
-    "name": "חצבה"
+    "name": "חצבה",
+    "councilName": "הערבה התיכונה"
   },
   {
     "symbol": 2034,
-    "name": "חצור הגלילית"
+    "name": "חצור הגלילית",
+    "councilName": ""
   },
   {
     "symbol": 406,
-    "name": "חצור-אשדוד"
+    "name": "חצור-אשדוד",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 1409,
-    "name": "חצר בארותיים"
+    "name": "חצר בארותיים",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 1402,
-    "name": "חצרות חולדה"
+    "name": "חצרות חולדה",
+    "councilName": "גזר"
   },
   {
     "symbol": 1404,
-    "name": "חצרות יסף"
+    "name": "חצרות יסף",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 1405,
-    "name": "חצרות כ\"ח"
+    "name": "חצרות כ\"ח",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 397,
-    "name": "חצרים"
+    "name": "חצרים",
+    "councilName": "בני שמעון"
   },
   {
     "symbol": 422,
-    "name": "חרב לאת"
+    "name": "חרב לאת",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 1024,
-    "name": "חרוצים"
+    "name": "חרוצים",
+    "councilName": "חוף השרון"
   },
   {
     "symbol": 1247,
-    "name": "חריש"
+    "name": "חריש",
+    "councilName": ""
   },
   {
     "symbol": 3717,
-    "name": "חרמש"
+    "name": "חרמש",
+    "councilName": "שומרון"
   },
   {
     "symbol": 1209,
-    "name": "חרשים"
+    "name": "חרשים",
+    "councilName": "משגב"
   },
   {
     "symbol": 3770,
-    "name": "חשמונאים"
+    "name": "חשמונאים",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 6700,
-    "name": "טבריה"
+    "name": "טבריה",
+    "councilName": ""
   },
   {
     "symbol": 962,
-    "name": "טובא-זנגריה"
+    "name": "טובא-זנגריה",
+    "councilName": ""
   },
   {
     "symbol": 498,
-    "name": "טורעאן"
+    "name": "טורעאן",
+    "councilName": ""
   },
   {
     "symbol": 2730,
-    "name": "טייבה"
+    "name": "טייבה",
+    "councilName": ""
   },
   {
     "symbol": 497,
-    "name": "טייבה )בעמק("
+    "name": "טייבה )בעמק(",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 2720,
-    "name": "טירה"
+    "name": "טירה",
+    "councilName": ""
   },
   {
     "symbol": 663,
-    "name": "טירת יהודה"
+    "name": "טירת יהודה",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 2100,
-    "name": "טירת כרמל"
+    "name": "טירת כרמל",
+    "councilName": ""
   },
   {
     "symbol": 268,
-    "name": "טירת צבי"
+    "name": "טירת צבי",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 462,
-    "name": "טל שחר"
+    "name": "טל שחר",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1181,
-    "name": "טל-אל"
+    "name": "טל-אל",
+    "councilName": "משגב"
   },
   {
     "symbol": 1177,
-    "name": "טללים"
+    "name": "טללים",
+    "councilName": "רמת נגב"
   },
   {
     "symbol": 3788,
-    "name": "טלמון"
+    "name": "טלמון",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 8900,
-    "name": "טמרה"
+    "name": "טמרה",
+    "councilName": ""
   },
   {
     "symbol": 547,
-    "name": "טמרה )יזרעאל("
+    "name": "טמרה )יזרעאל(",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 3743,
-    "name": "טנא"
+    "name": "טנא",
+    "councilName": "הר חברון"
   },
   {
     "symbol": 1214,
-    "name": "טפחות"
+    "name": "טפחות",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 1295,
-    "name": "יאנוח-ג'ת"
+    "name": "יאנוח-ג'ת",
+    "councilName": ""
   },
   {
     "symbol": 1232,
-    "name": "יבול"
+    "name": "יבול",
+    "councilName": "אשכול"
   },
   {
     "symbol": 46,
-    "name": "יבנאל"
+    "name": "יבנאל",
+    "councilName": ""
   },
   {
     "symbol": 2660,
-    "name": "יבנה"
+    "name": "יבנה",
+    "councilName": ""
   },
   {
     "symbol": 96,
-    "name": "יגור"
+    "name": "יגור",
+    "councilName": "זבולון"
   },
   {
     "symbol": 798,
-    "name": "יגל"
+    "name": "יגל",
+    "councilName": "שדות דן"
   },
   {
     "symbol": 577,
-    "name": "יד בנימין"
+    "name": "יד בנימין",
+    "councilName": "נחל שורק"
   },
   {
     "symbol": 1134,
-    "name": "יד השמונה"
+    "name": "יד השמונה",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 758,
-    "name": "יד חנה"
+    "name": "יד חנה",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 358,
-    "name": "יד מרדכי"
+    "name": "יד מרדכי",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 775,
-    "name": "יד נתן"
+    "name": "יד נתן",
+    "councilName": "לכיש"
   },
   {
     "symbol": 64,
-    "name": "יד רמב\"ם"
+    "name": "יד רמב\"ם",
+    "councilName": "גזר"
   },
   {
     "symbol": 1144,
-    "name": "ידידה"
+    "name": "ידידה",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 9400,
-    "name": "יהוד-מונוסון"
+    "name": "יהוד-מונוסון",
+    "councilName": ""
   },
   {
     "symbol": 1158,
-    "name": "יהל"
+    "name": "יהל",
+    "councilName": "חבל אילות"
   },
   {
     "symbol": 2009,
-    "name": "יובל"
+    "name": "יובל",
+    "councilName": "מבואות החרמון"
   },
   {
     "symbol": 1226,
-    "name": "יובלים"
+    "name": "יובלים",
+    "councilName": "משגב"
   },
   {
     "symbol": 1112,
-    "name": "יודפת"
+    "name": "יודפת",
+    "councilName": "משגב"
   },
   {
     "symbol": 4007,
-    "name": "יונתן"
+    "name": "יונתן",
+    "councilName": "גולן"
   },
   {
     "symbol": 803,
-    "name": "יושיביה"
+    "name": "יושיביה",
+    "councilName": "שדות נגב"
   },
   {
     "symbol": 452,
-    "name": "יזרעאל"
+    "name": "יזרעאל",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 409,
-    "name": "יחיעם"
+    "name": "יחיעם",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 866,
-    "name": "יטבתה"
+    "name": "יטבתה",
+    "councilName": "חבל אילות"
   },
   {
     "symbol": 3607,
-    "name": "ייט\"ב"
+    "name": "ייט\"ב",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 811,
-    "name": "יכיני"
+    "name": "יכיני",
+    "councilName": "שער הנגב"
   },
   {
     "symbol": 753,
-    "name": "ינוב"
+    "name": "ינוב",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 2011,
-    "name": "ינון"
+    "name": "ינון",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 29,
-    "name": "יסוד המעלה"
+    "name": "יסוד המעלה",
+    "councilName": ""
   },
   {
     "symbol": 440,
-    "name": "יסודות"
+    "name": "יסודות",
+    "councilName": "נחל שורק"
   },
   {
     "symbol": 575,
-    "name": "יסעור"
+    "name": "יסעור",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 1138,
-    "name": "יעד"
+    "name": "יעד",
+    "councilName": "משגב"
   },
   {
     "symbol": 1117,
-    "name": "יעל"
+    "name": "יעל",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 1044,
-    "name": "יעף"
+    "name": "יעף",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 795,
-    "name": "יערה"
+    "name": "יערה",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 499,
-    "name": "יפיע"
+    "name": "יפיע",
+    "councilName": ""
   },
   {
     "symbol": 3566,
-    "name": "יפית"
+    "name": "יפית",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 134,
-    "name": "יפעת"
+    "name": "יפעת",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 453,
-    "name": "יפתח"
+    "name": "יפתח",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 3749,
-    "name": "יצהר"
+    "name": "יצהר",
+    "councilName": "שומרון"
   },
   {
     "symbol": 759,
-    "name": "יציץ"
+    "name": "יציץ",
+    "councilName": "גזר"
   },
   {
     "symbol": 417,
-    "name": "יקום"
+    "name": "יקום",
+    "councilName": "חוף השרון"
   },
   {
     "symbol": 3647,
-    "name": "יקיר"
+    "name": "יקיר",
+    "councilName": "שומרון"
   },
   {
     "symbol": 241,
-    "name": "יקנעם )מושבה("
+    "name": "יקנעם )מושבה(",
+    "councilName": "מגידו"
   },
   {
     "symbol": 240,
-    "name": "יקנעם עילית"
+    "name": "יקנעם עילית",
+    "councilName": ""
   },
   {
     "symbol": 623,
-    "name": "יראון"
+    "name": "יראון",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 2026,
-    "name": "ירדנה"
+    "name": "ירדנה",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 831,
-    "name": "ירוחם"
+    "name": "ירוחם",
+    "councilName": ""
   },
   {
     "symbol": 3000,
-    "name": "ירושלים"
+    "name": "ירושלים",
+    "councilName": ""
   },
   {
     "symbol": 718,
-    "name": "ירחיב"
+    "name": "ירחיב",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 502,
-    "name": "ירכא"
+    "name": "ירכא",
+    "councilName": ""
   },
   {
     "symbol": 183,
-    "name": "ירקונה"
+    "name": "ירקונה",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 916,
-    "name": "ישע"
+    "name": "ישע",
+    "councilName": "אשכול"
   },
   {
     "symbol": 805,
-    "name": "ישעי"
+    "name": "ישעי",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 828,
-    "name": "ישרש"
+    "name": "ישרש",
+    "councilName": "גזר"
   },
   {
     "symbol": 1227,
-    "name": "יתד"
+    "name": "יתד",
+    "councilName": "אשכול"
   },
   {
     "symbol": 1329,
-    "name": "יתיר"
+    "name": "יתיר",
+    "councilName": ""
   },
   {
     "symbol": 504,
-    "name": "כאבול"
+    "name": "כאבול",
+    "councilName": ""
   },
   {
     "symbol": 505,
-    "name": "כאוכב אבו אל-היג'א"
+    "name": "כאוכב אבו אל-היג'א",
+    "councilName": ""
   },
   {
     "symbol": 576,
-    "name": "כברי"
+    "name": "כברי",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 371,
-    "name": "כדורי"
+    "name": "כדורי",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 1338,
-    "name": "כדיתה"
+    "name": "כדיתה",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 3564,
-    "name": "כוכב השחר"
+    "name": "כוכב השחר",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 1224,
-    "name": "כוכב יאיר"
+    "name": "כוכב יאיר",
+    "councilName": ""
   },
   {
     "symbol": 3779,
-    "name": "כוכב יעקב"
+    "name": "כוכב יעקב",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 824,
-    "name": "כוכב מיכאל"
+    "name": "כוכב מיכאל",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 1252,
-    "name": "כורזים"
+    "name": "כורזים",
+    "councilName": "מבואות החרמון"
   },
   {
     "symbol": 1210,
-    "name": "כחל"
+    "name": "כחל",
+    "councilName": "מבואות החרמון"
   },
   {
     "symbol": 1367,
-    "name": "כחלה"
+    "name": "כחלה",
+    "councilName": "אל קסום"
   },
   {
     "symbol": 840,
-    "name": "כיסופים"
+    "name": "כיסופים",
+    "councilName": "אשכול"
   },
   {
     "symbol": 1153,
-    "name": "כישור"
+    "name": "כישור",
+    "councilName": "משגב"
   },
   {
     "symbol": 1183,
-    "name": "כליל"
+    "name": "כליל",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 1229,
-    "name": "כלנית"
+    "name": "כלנית",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 1331,
-    "name": "כמאנה"
+    "name": "כמאנה",
+    "councilName": "משגב"
   },
   {
     "symbol": 1291,
-    "name": "כמהין"
+    "name": "כמהין",
+    "councilName": "רמת נגב"
   },
   {
     "symbol": 1201,
-    "name": "כמון"
+    "name": "כמון",
+    "councilName": "משגב"
   },
   {
     "symbol": 2006,
-    "name": "כנות"
+    "name": "כנות",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 4028,
-    "name": "כנף"
+    "name": "כנף",
+    "councilName": "גולן"
   },
   {
     "symbol": 63,
-    "name": "כנרת )מושבה("
+    "name": "כנרת )מושבה(",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 57,
-    "name": "כנרת )קבוצה("
+    "name": "כנרת )קבוצה(",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 1059,
-    "name": "כסיפה"
+    "name": "כסיפה",
+    "councilName": ""
   },
   {
     "symbol": 859,
-    "name": "כסלון"
+    "name": "כסלון",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1296,
-    "name": "כסרא-סמיע"
+    "name": "כסרא-סמיע",
+    "councilName": ""
   },
   {
     "symbol": 978,
-    "name": "כעביה-טבאש-חג'אג'רה"
+    "name": "כעביה-טבאש-חג'אג'רה",
+    "councilName": ""
   },
   {
     "symbol": 857,
-    "name": "כפר אביב"
+    "name": "כפר אביב",
+    "councilName": "גדרות"
   },
   {
     "symbol": 3638,
-    "name": "כפר אדומים"
+    "name": "כפר אדומים",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 364,
-    "name": "כפר אוריה"
+    "name": "כפר אוריה",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 690,
-    "name": "כפר אחים"
+    "name": "כפר אחים",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 220,
-    "name": "כפר ביאליק"
+    "name": "כפר ביאליק",
+    "councilName": "זבולון"
   },
   {
     "symbol": 177,
-    "name": "כפר ביל\"ו"
+    "name": "כפר ביל\"ו",
+    "councilName": "גזר"
   },
   {
     "symbol": 357,
-    "name": "כפר בלום"
+    "name": "כפר בלום",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 2010,
-    "name": "כפר בן נון"
+    "name": "כפר בן נון",
+    "councilName": "גזר"
   },
   {
     "symbol": 633,
-    "name": "כפר ברא"
+    "name": "כפר ברא",
+    "councilName": ""
   },
   {
     "symbol": 132,
-    "name": "כפר ברוך"
+    "name": "כפר ברוך",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 106,
-    "name": "כפר גדעון"
+    "name": "כפר גדעון",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 427,
-    "name": "כפר גלים"
+    "name": "כפר גלים",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 310,
-    "name": "כפר גליקסון"
+    "name": "כפר גליקסון",
+    "councilName": "מנשה"
   },
   {
     "symbol": 76,
-    "name": "כפר גלעדי"
+    "name": "כפר גלעדי",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 707,
-    "name": "כפר דניאל"
+    "name": "כפר דניאל",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 3796,
-    "name": "כפר האורנים"
+    "name": "כפר האורנים",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 192,
-    "name": "כפר החורש"
+    "name": "כפר החורש",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 254,
-    "name": "כפר המכבי"
+    "name": "כפר המכבי",
+    "councilName": "זבולון"
   },
   {
     "symbol": 582,
-    "name": "כפר הנגיד"
+    "name": "כפר הנגיד",
+    "councilName": "גן רווה"
   },
   {
     "symbol": 890,
-    "name": "כפר הנוער הדתי"
+    "name": "כפר הנוער הדתי",
+    "councilName": "זבולון"
   },
   {
     "symbol": 443,
-    "name": "כפר הנשיא"
+    "name": "כפר הנשיא",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 187,
-    "name": "כפר הס"
+    "name": "כפר הס",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 217,
-    "name": "כפר הרא\"ה"
+    "name": "כפר הרא\"ה",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 888,
-    "name": "כפר הרי\"ף"
+    "name": "כפר הרי\"ף",
+    "councilName": "יואב"
   },
   {
     "symbol": 190,
-    "name": "כפר ויתקין"
+    "name": "כפר ויתקין",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 320,
-    "name": "כפר ורבורג"
+    "name": "כפר ורבורג",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 1263,
-    "name": "כפר ורדים"
+    "name": "כפר ורדים",
+    "councilName": ""
   },
   {
     "symbol": 1325,
-    "name": "כפר זוהרים"
+    "name": "כפר זוהרים",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 786,
-    "name": "כפר זיתים"
+    "name": "כפר זיתים",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 696,
-    "name": "כפר חב\"ד"
+    "name": "כפר חב\"ד",
+    "councilName": "שדות דן"
   },
   {
     "symbol": 609,
-    "name": "כפר חושן"
+    "name": "כפר חושן",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 255,
-    "name": "כפר חיטים"
+    "name": "כפר חיטים",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 193,
-    "name": "כפר חיים"
+    "name": "כפר חיים",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 1297,
-    "name": "כפר חנניה"
+    "name": "כפר חנניה",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 112,
-    "name": "כפר חסידים א'"
+    "name": "כפר חסידים א'",
+    "councilName": "זבולון"
   },
   {
     "symbol": 889,
-    "name": "כפר חסידים ב'"
+    "name": "כפר חסידים ב'",
+    "councilName": "זבולון"
   },
   {
     "symbol": 4004,
-    "name": "כפר חרוב"
+    "name": "כפר חרוב",
+    "councilName": "גולן"
   },
   {
     "symbol": 673,
-    "name": "כפר טרומן"
+    "name": "כפר טרומן",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 507,
-    "name": "כפר יאסיף"
+    "name": "כפר יאסיף",
+    "councilName": ""
   },
   {
     "symbol": 233,
-    "name": "כפר ידידיה"
+    "name": "כפר ידידיה",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 140,
-    "name": "כפר יהושע"
+    "name": "כפר יהושע",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 168,
-    "name": "כפר יונה"
+    "name": "כפר יונה",
+    "councilName": ""
   },
   {
     "symbol": 85,
-    "name": "כפר יחזקאל"
+    "name": "כפר יחזקאל",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 170,
-    "name": "כפר יעבץ"
+    "name": "כפר יעבץ",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 508,
-    "name": "כפר כמא"
+    "name": "כפר כמא",
+    "councilName": ""
   },
   {
     "symbol": 509,
-    "name": "כפר כנא"
+    "name": "כפר כנא",
+    "councilName": ""
   },
   {
     "symbol": 387,
-    "name": "כפר מונש"
+    "name": "כפר מונש",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 1095,
-    "name": "כפר מימון"
+    "name": "כפר מימון",
+    "councilName": "שדות נגב"
   },
   {
     "symbol": 98,
-    "name": "כפר מל\"ל"
+    "name": "כפר מל\"ל",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 510,
-    "name": "כפר מנדא"
+    "name": "כפר מנדא",
+    "councilName": ""
   },
   {
     "symbol": 274,
-    "name": "כפר מנחם"
+    "name": "כפר מנחם",
+    "councilName": "יואב"
   },
   {
     "symbol": 297,
-    "name": "כפר מסריק"
+    "name": "כפר מסריק",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 512,
-    "name": "כפר מצר"
+    "name": "כפר מצר",
+    "councilName": "בוסתאן אל-מרג'"
   },
   {
     "symbol": 764,
-    "name": "כפר מרדכי"
+    "name": "כפר מרדכי",
+    "councilName": "גדרות"
   },
   {
     "symbol": 316,
-    "name": "כפר נטר"
+    "name": "כפר נטר",
+    "councilName": "חוף השרון"
   },
   {
     "symbol": 345,
-    "name": "כפר סאלד"
+    "name": "כפר סאלד",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 6900,
-    "name": "כפר סבא"
+    "name": "כפר סבא",
+    "councilName": ""
   },
   {
     "symbol": 107,
-    "name": "כפר סילבר"
+    "name": "כפר סילבר",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 249,
-    "name": "כפר סירקין"
+    "name": "כפר סירקין",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 875,
-    "name": "כפר עבודה"
+    "name": "כפר עבודה",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 845,
-    "name": "כפר עזה"
+    "name": "כפר עזה",
+    "councilName": "שער הנגב"
   },
   {
     "symbol": 3488,
-    "name": "כפר עציון"
+    "name": "כפר עציון",
+    "councilName": "גוש עציון"
   },
   {
     "symbol": 189,
-    "name": "כפר פינס"
+    "name": "כפר פינס",
+    "councilName": "מנשה"
   },
   {
     "symbol": 634,
-    "name": "כפר קאסם"
+    "name": "כפר קאסם",
+    "councilName": ""
   },
   {
     "symbol": 388,
-    "name": "כפר קיש"
+    "name": "כפר קיש",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 654,
-    "name": "כפר קרע"
+    "name": "כפר קרע",
+    "councilName": ""
   },
   {
     "symbol": 579,
-    "name": "כפר ראש הנקרה"
+    "name": "כפר ראש הנקרה",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 1130,
-    "name": "כפר רוזנואלד )זרעית("
+    "name": "כפר רוזנואלד )זרעית(",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 295,
-    "name": "כפר רופין"
+    "name": "כפר רופין",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 1166,
-    "name": "כפר רות"
+    "name": "כפר רות",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 605,
-    "name": "כפר שמאי"
+    "name": "כפר שמאי",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 743,
-    "name": "כפר שמואל"
+    "name": "כפר שמואל",
+    "councilName": "גזר"
   },
   {
     "symbol": 267,
-    "name": "כפר שמריהו"
+    "name": "כפר שמריהו",
+    "councilName": ""
   },
   {
     "symbol": 47,
-    "name": "כפר תבור"
+    "name": "כפר תבור",
+    "councilName": ""
   },
   {
     "symbol": 3572,
-    "name": "כפר תפוח"
+    "name": "כפר תפוח",
+    "councilName": "שומרון"
   },
   {
     "symbol": 38,
-    "name": "כרי דשא"
+    "name": "כרי דשא",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 1285,
-    "name": "כרכום"
+    "name": "כרכום",
+    "councilName": "מבואות החרמון"
   },
   {
     "symbol": 664,
-    "name": "כרם בן זמרה"
+    "name": "כרם בן זמרה",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 88,
-    "name": "כרם בן שמן"
+    "name": "כרם בן שמן",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 1094,
-    "name": "כרם יבנה )ישיבה("
+    "name": "כרם יבנה )ישיבה(",
+    "councilName": "חבל יבנה"
   },
   {
     "symbol": 580,
-    "name": "כרם מהר\"ל"
+    "name": "כרם מהר\"ל",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 1085,
-    "name": "כרם שלום"
+    "name": "כרם שלום",
+    "councilName": "אשכול"
   },
   {
     "symbol": 1264,
-    "name": "כרמי יוסף"
+    "name": "כרמי יוסף",
+    "councilName": "גזר"
   },
   {
     "symbol": 3766,
-    "name": "כרמי צור"
+    "name": "כרמי צור",
+    "councilName": "גוש עציון"
   },
   {
     "symbol": 1374,
-    "name": "כרמי קטיף"
+    "name": "כרמי קטיף",
+    "councilName": "לכיש"
   },
   {
     "symbol": 1139,
-    "name": "כרמיאל"
+    "name": "כרמיאל",
+    "councilName": ""
   },
   {
     "symbol": 768,
-    "name": "כרמיה"
+    "name": "כרמיה",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 1198,
-    "name": "כרמים"
+    "name": "כרמים",
+    "councilName": "בני שמעון"
   },
   {
     "symbol": 3656,
-    "name": "כרמל"
+    "name": "כרמל",
+    "councilName": "הר חברון"
   },
   {
     "symbol": 0,
-    "name": "לא רשום"
+    "name": "לא רשום",
+    "councilName": ""
   },
   {
     "symbol": 1207,
-    "name": "לבון"
+    "name": "לבון",
+    "councilName": "משגב"
   },
   {
     "symbol": 585,
-    "name": "לביא"
+    "name": "לביא",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 1230,
-    "name": "לבנים"
+    "name": "לבנים",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 2023,
-    "name": "להב"
+    "name": "להב",
+    "councilName": "בני שמעון"
   },
   {
     "symbol": 380,
-    "name": "להבות הבשן"
+    "name": "להבות הבשן",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 715,
-    "name": "להבות חביבה"
+    "name": "להבות חביבה",
+    "councilName": "מנשה"
   },
   {
     "symbol": 1271,
-    "name": "להבים"
+    "name": "להבים",
+    "councilName": ""
   },
   {
     "symbol": 7000,
-    "name": "לוד"
+    "name": "לוד",
+    "councilName": ""
   },
   {
     "symbol": 52,
-    "name": "לוזית"
+    "name": "לוזית",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 595,
-    "name": "לוחמי הגיטאות"
+    "name": "לוחמי הגיטאות",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 1171,
-    "name": "לוטם"
+    "name": "לוטם",
+    "councilName": "משגב"
   },
   {
     "symbol": 1255,
-    "name": "לוטן"
+    "name": "לוטן",
+    "councilName": "חבל אילות"
   },
   {
     "symbol": 674,
-    "name": "לימן"
+    "name": "לימן",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 24,
-    "name": "לכיש"
+    "name": "לכיש",
+    "councilName": "לכיש"
   },
   {
     "symbol": 1310,
-    "name": "לפיד"
+    "name": "לפיד",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 1173,
-    "name": "לפידות"
+    "name": "לפידות",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 1060,
-    "name": "לקיה"
+    "name": "לקיה",
+    "councilName": ""
   },
   {
     "symbol": 2055,
-    "name": "מאור"
+    "name": "מאור",
+    "councilName": "מנשה"
   },
   {
     "symbol": 102,
-    "name": "מאיר שפיה"
+    "name": "מאיר שפיה",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 771,
-    "name": "מבוא ביתר"
+    "name": "מבוא ביתר",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 3569,
-    "name": "מבוא דותן"
+    "name": "מבוא דותן",
+    "councilName": "שומרון"
   },
   {
     "symbol": 3709,
-    "name": "מבוא חורון"
+    "name": "מבוא חורון",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 4204,
-    "name": "מבוא חמה"
+    "name": "מבוא חמה",
+    "councilName": "גולן"
   },
   {
     "symbol": 1141,
-    "name": "מבוא מודיעים"
+    "name": "מבוא מודיעים",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 1318,
-    "name": "מבואות ים"
+    "name": "מבואות ים",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 3825,
-    "name": "מבואות יריחו"
+    "name": "מבואות יריחו",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 1080,
-    "name": "מבועים"
+    "name": "מבועים",
+    "councilName": "מרחבים"
   },
   {
     "symbol": 829,
-    "name": "מבטחים"
+    "name": "מבטחים",
+    "councilName": "אשכול"
   },
   {
     "symbol": 573,
-    "name": "מבקיעים"
+    "name": "מבקיעים",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 1015,
-    "name": "מבשרת ציון"
+    "name": "מבשרת ציון",
+    "councilName": ""
   },
   {
     "symbol": 516,
-    "name": "מג'ד אל-כרום"
+    "name": "מג'ד אל-כרום",
+    "councilName": ""
   },
   {
     "symbol": 4201,
-    "name": "מג'דל שמס"
+    "name": "מג'דל שמס",
+    "councilName": ""
   },
   {
     "symbol": 481,
-    "name": "מגאר"
+    "name": "מגאר",
+    "councilName": ""
   },
   {
     "symbol": 689,
-    "name": "מגדים"
+    "name": "מגדים",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 65,
-    "name": "מגדל"
+    "name": "מגדל",
+    "councilName": ""
   },
   {
     "symbol": 874,
-    "name": "מגדל העמק"
+    "name": "מגדל העמק",
+    "councilName": ""
   },
   {
     "symbol": 3561,
-    "name": "מגדל עוז"
+    "name": "מגדל עוז",
+    "councilName": "גוש עציון"
   },
   {
     "symbol": 3751,
-    "name": "מגדלים"
+    "name": "מגדלים",
+    "councilName": "שומרון"
   },
   {
     "symbol": 586,
-    "name": "מגידו"
+    "name": "מגידו",
+    "councilName": "מגידו"
   },
   {
     "symbol": 375,
-    "name": "מגל"
+    "name": "מגל",
+    "councilName": "מנשה"
   },
   {
     "symbol": 695,
-    "name": "מגן"
+    "name": "מגן",
+    "councilName": "אשכול"
   },
   {
     "symbol": 1155,
-    "name": "מגן שאול"
+    "name": "מגן שאול",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 722,
-    "name": "מגשימים"
+    "name": "מגשימים",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 2029,
-    "name": "מדרך עוז"
+    "name": "מדרך עוז",
+    "councilName": "מגידו"
   },
   {
     "symbol": 1140,
-    "name": "מדרשת בן גוריון"
+    "name": "מדרשת בן גוריון",
+    "councilName": "רמת נגב"
   },
   {
     "symbol": 897,
-    "name": "מדרשת רופין"
+    "name": "מדרשת רופין",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 3797,
-    "name": "מודיעין עילית"
+    "name": "מודיעין עילית",
+    "councilName": ""
   },
   {
     "symbol": 1200,
-    "name": "מודיעין-מכבים-רעות"
+    "name": "מודיעין-מכבים-רעות",
+    "councilName": ""
   },
   {
     "symbol": 269,
-    "name": "מולדת"
+    "name": "מולדת",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 208,
-    "name": "מוצא עילית"
+    "name": "מוצא עילית",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 635,
-    "name": "מוקייבלה"
+    "name": "מוקייבלה",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 1163,
-    "name": "מורן"
+    "name": "מורן",
+    "councilName": "משגב"
   },
   {
     "symbol": 1178,
-    "name": "מורשת"
+    "name": "מורשת",
+    "councilName": "משגב"
   },
   {
     "symbol": 606,
-    "name": "מזור"
+    "name": "מזור",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 28,
-    "name": "מזכרת בתיה"
+    "name": "מזכרת בתיה",
+    "councilName": ""
   },
   {
     "symbol": 104,
-    "name": "מזרע"
+    "name": "מזרע",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 517,
-    "name": "מזרעה"
+    "name": "מזרעה",
+    "councilName": ""
   },
   {
     "symbol": 3599,
-    "name": "מחולה"
+    "name": "מחולה",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 1411,
-    "name": "מחנה הילה"
+    "name": "מחנה הילה",
+    "councilName": "גן רווה"
   },
   {
     "symbol": 1418,
-    "name": "מחנה טלי"
+    "name": "מחנה טלי",
+    "councilName": "רמת נגב"
   },
   {
     "symbol": 1413,
-    "name": "מחנה יהודית"
+    "name": "מחנה יהודית",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 1416,
-    "name": "מחנה יוכבד"
+    "name": "מחנה יוכבד",
+    "councilName": "חבל אילות"
   },
   {
     "symbol": 1415,
-    "name": "מחנה יפה"
+    "name": "מחנה יפה",
+    "councilName": "מרחבים"
   },
   {
     "symbol": 1196,
-    "name": "מחנה יתיר"
+    "name": "מחנה יתיר",
+    "councilName": ""
   },
   {
     "symbol": 1414,
-    "name": "מחנה מרים"
+    "name": "מחנה מרים",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 1412,
-    "name": "מחנה תל נוף"
+    "name": "מחנה תל נוף",
+    "councilName": "ברנר"
   },
   {
     "symbol": 308,
-    "name": "מחניים"
+    "name": "מחניים",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 776,
-    "name": "מחסיה"
+    "name": "מחסיה",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 43,
-    "name": "מטולה"
+    "name": "מטולה",
+    "councilName": ""
   },
   {
     "symbol": 822,
-    "name": "מטע"
+    "name": "מטע",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1128,
-    "name": "מי עמי"
+    "name": "מי עמי",
+    "councilName": "מנשה"
   },
   {
     "symbol": 2054,
-    "name": "מיטב"
+    "name": "מיטב",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 649,
-    "name": "מייסר"
+    "name": "מייסר",
+    "councilName": "מנשה"
   },
   {
     "symbol": 4019,
-    "name": "מיצר"
+    "name": "מיצר",
+    "councilName": "גולן"
   },
   {
     "symbol": 1282,
-    "name": "מירב"
+    "name": "מירב",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 607,
-    "name": "מירון"
+    "name": "מירון",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 731,
-    "name": "מישר"
+    "name": "מישר",
+    "councilName": "גדרות"
   },
   {
     "symbol": 1268,
-    "name": "מיתר"
+    "name": "מיתר",
+    "councilName": ""
   },
   {
     "symbol": 3614,
-    "name": "מכורה"
+    "name": "מכורה",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 1343,
-    "name": "מכחול"
+    "name": "מכחול",
+    "councilName": "אל קסום"
   },
   {
     "symbol": 382,
-    "name": "מכמורת"
+    "name": "מכמורת",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 1202,
-    "name": "מכמנים"
+    "name": "מכמנים",
+    "councilName": "משגב"
   },
   {
     "symbol": 164,
-    "name": "מלאה"
+    "name": "מלאה",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 2044,
-    "name": "מלילות"
+    "name": "מלילות",
+    "councilName": "שדות נגב"
   },
   {
     "symbol": 596,
-    "name": "מלכיה"
+    "name": "מלכיה",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 1154,
-    "name": "מלכישוע"
+    "name": "מלכישוע",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 2030,
-    "name": "מנוחה"
+    "name": "מנוחה",
+    "councilName": "לכיש"
   },
   {
     "symbol": 1174,
-    "name": "מנוף"
+    "name": "מנוף",
+    "councilName": "משגב"
   },
   {
     "symbol": 1205,
-    "name": "מנות"
+    "name": "מנות",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 48,
-    "name": "מנחמיה"
+    "name": "מנחמיה",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 347,
-    "name": "מנרה"
+    "name": "מנרה",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 994,
-    "name": "מנשית זבדה"
+    "name": "מנשית זבדה",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 1258,
-    "name": "מסד"
+    "name": "מסד",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 263,
-    "name": "מסדה"
+    "name": "מסדה",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 298,
-    "name": "מסילות"
+    "name": "מסילות",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 742,
-    "name": "מסילת ציון"
+    "name": "מסילת ציון",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 748,
-    "name": "מסלול"
+    "name": "מסלול",
+    "councilName": "מרחבים"
   },
   {
     "symbol": 4203,
-    "name": "מסעדה"
+    "name": "מסעדה",
+    "councilName": ""
   },
   {
     "symbol": 939,
-    "name": "מסעודין אל-עזאזמה"
+    "name": "מסעודין אל-עזאזמה",
+    "councilName": ""
   },
   {
     "symbol": 197,
-    "name": "מעברות"
+    "name": "מעברות",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 1082,
-    "name": "מעגלים"
+    "name": "מעגלים",
+    "councilName": "שדות נגב"
   },
   {
     "symbol": 678,
-    "name": "מעגן"
+    "name": "מעגן",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 694,
-    "name": "מעגן מיכאל"
+    "name": "מעגן מיכאל",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 272,
-    "name": "מעוז חיים"
+    "name": "מעוז חיים",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 3657,
-    "name": "מעון"
+    "name": "מעון",
+    "councilName": "הר חברון"
   },
   {
     "symbol": 570,
-    "name": "מעונה"
+    "name": "מעונה",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 518,
-    "name": "מעיליא"
+    "name": "מעיליא",
+    "councilName": ""
   },
   {
     "symbol": 416,
-    "name": "מעין ברוך"
+    "name": "מעין ברוך",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 290,
-    "name": "מעין צבי"
+    "name": "מעין צבי",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 3616,
-    "name": "מעלה אדומים"
+    "name": "מעלה אדומים",
+    "councilName": ""
   },
   {
     "symbol": 3608,
-    "name": "מעלה אפרים"
+    "name": "מעלה אפרים",
+    "councilName": ""
   },
   {
     "symbol": 1127,
-    "name": "מעלה גלבוע"
+    "name": "מעלה גלבוע",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 4008,
-    "name": "מעלה גמלא"
+    "name": "מעלה גמלא",
+    "councilName": "גולן"
   },
   {
     "symbol": 286,
-    "name": "מעלה החמישה"
+    "name": "מעלה החמישה",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 3752,
-    "name": "מעלה לבונה"
+    "name": "מעלה לבונה",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 3651,
-    "name": "מעלה מכמש"
+    "name": "מעלה מכמש",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 1327,
-    "name": "מעלה עירון"
+    "name": "מעלה עירון",
+    "councilName": ""
   },
   {
     "symbol": 3653,
-    "name": "מעלה עמוס"
+    "name": "מעלה עמוס",
+    "councilName": "גוש עציון"
   },
   {
     "symbol": 3637,
-    "name": "מעלה שומרון"
+    "name": "מעלה שומרון",
+    "councilName": "שומרון"
   },
   {
     "symbol": 1063,
-    "name": "מעלות-תרשיחא"
+    "name": "מעלות-תרשיחא",
+    "councilName": ""
   },
   {
     "symbol": 344,
-    "name": "מענית"
+    "name": "מענית",
+    "councilName": "מנשה"
   },
   {
     "symbol": 230,
-    "name": "מעש"
+    "name": "מעש",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 668,
-    "name": "מפלסים"
+    "name": "מפלסים",
+    "councilName": "שער הנגב"
   },
   {
     "symbol": 3745,
-    "name": "מצדות יהודה"
+    "name": "מצדות יהודה",
+    "councilName": "הר חברון"
   },
   {
     "symbol": 325,
-    "name": "מצובה"
+    "name": "מצובה",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 757,
-    "name": "מצליח"
+    "name": "מצליח",
+    "councilName": "גזר"
   },
   {
     "symbol": 58,
-    "name": "מצפה"
+    "name": "מצפה",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 1222,
-    "name": "מצפה אבי\"ב"
+    "name": "מצפה אבי\"ב",
+    "councilName": "משגב"
   },
   {
     "symbol": 1370,
-    "name": "מצפה אילן"
+    "name": "מצפה אילן",
+    "councilName": "מנשה"
   },
   {
     "symbol": 3576,
-    "name": "מצפה יריחו"
+    "name": "מצפה יריחו",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 1190,
-    "name": "מצפה נטופה"
+    "name": "מצפה נטופה",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 99,
-    "name": "מצפה רמון"
+    "name": "מצפה רמון",
+    "councilName": ""
   },
   {
     "symbol": 3610,
-    "name": "מצפה שלם"
+    "name": "מצפה שלם",
+    "councilName": "מגילות ים המלח"
   },
   {
     "symbol": 648,
-    "name": "מצר"
+    "name": "מצר",
+    "councilName": "מנשה"
   },
   {
     "symbol": 22,
-    "name": "מקווה ישראל"
+    "name": "מקווה ישראל",
+    "councilName": ""
   },
   {
     "symbol": 843,
-    "name": "מרגליות"
+    "name": "מרגליות",
+    "councilName": "מבואות החרמון"
   },
   {
     "symbol": 4101,
-    "name": "מרום גולן"
+    "name": "מרום גולן",
+    "councilName": "גולן"
   },
   {
     "symbol": 1340,
-    "name": "מרחב עם"
+    "name": "מרחב עם",
+    "councilName": "רמת נגב"
   },
   {
     "symbol": 97,
-    "name": "מרחביה )מושב("
+    "name": "מרחביה )מושב(",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 66,
-    "name": "מרחביה )קיבוץ("
+    "name": "מרחביה )קיבוץ(",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 1098,
-    "name": "מרכז שפירא"
+    "name": "מרכז שפירא",
+    "councilName": "שפיר"
   },
   {
     "symbol": 421,
-    "name": "משאבי שדה"
+    "name": "משאבי שדה",
+    "councilName": "רמת נגב"
   },
   {
     "symbol": 765,
-    "name": "משגב דב"
+    "name": "משגב דב",
+    "councilName": "גדרות"
   },
   {
     "symbol": 378,
-    "name": "משגב עם"
+    "name": "משגב עם",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 520,
-    "name": "משהד"
+    "name": "משהד",
+    "councilName": ""
   },
   {
     "symbol": 3605,
-    "name": "משואה"
+    "name": "משואה",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 620,
-    "name": "משואות יצחק"
+    "name": "משואות יצחק",
+    "councilName": "שפיר"
   },
   {
     "symbol": 3785,
-    "name": "משכיות"
+    "name": "משכיות",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 670,
-    "name": "משמר איילון"
+    "name": "משמר איילון",
+    "councilName": "גזר"
   },
   {
     "symbol": 563,
-    "name": "משמר דוד"
+    "name": "משמר דוד",
+    "councilName": "גזר"
   },
   {
     "symbol": 732,
-    "name": "משמר הירדן"
+    "name": "משמר הירדן",
+    "councilName": "מבואות החרמון"
   },
   {
     "symbol": 395,
-    "name": "משמר הנגב"
+    "name": "משמר הנגב",
+    "councilName": "בני שמעון"
   },
   {
     "symbol": 130,
-    "name": "משמר העמק"
+    "name": "משמר העמק",
+    "councilName": "מגידו"
   },
   {
     "symbol": 729,
-    "name": "משמר השבעה"
+    "name": "משמר השבעה",
+    "councilName": "שדות דן"
   },
   {
     "symbol": 194,
-    "name": "משמר השרון"
+    "name": "משמר השרון",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 213,
-    "name": "משמרות"
+    "name": "משמרות",
+    "councilName": "מנשה"
   },
   {
     "symbol": 425,
-    "name": "משמרת"
+    "name": "משמרת",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 791,
-    "name": "משען"
+    "name": "משען",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 1315,
-    "name": "מתן"
+    "name": "מתן",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 1184,
-    "name": "מתת"
+    "name": "מתת",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 3648,
-    "name": "מתתיהו"
+    "name": "מתתיהו",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 4551,
-    "name": "נאות גולן"
+    "name": "נאות גולן",
+    "councilName": "גולן"
   },
   {
     "symbol": 1124,
-    "name": "נאות הכיכר"
+    "name": "נאות הכיכר",
+    "councilName": "תמר"
   },
   {
     "symbol": 408,
-    "name": "נאות מרדכי"
+    "name": "נאות מרדכי",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 1197,
-    "name": "נאות סמדר"
+    "name": "נאות סמדר",
+    "councilName": "חבל אילות"
   },
   {
     "symbol": 524,
-    "name": "נאעורה"
+    "name": "נאעורה",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 396,
-    "name": "נבטים"
+    "name": "נבטים",
+    "councilName": "בני שמעון"
   },
   {
     "symbol": 315,
-    "name": "נגבה"
+    "name": "נגבה",
+    "councilName": "יואב"
   },
   {
     "symbol": 3724,
-    "name": "נגוהות"
+    "name": "נגוהות",
+    "councilName": "הר חברון"
   },
   {
     "symbol": 309,
-    "name": "נהורה"
+    "name": "נהורה",
+    "councilName": "לכיש"
   },
   {
     "symbol": 80,
-    "name": "נהלל"
+    "name": "נהלל",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 9100,
-    "name": "נהריה"
+    "name": "נהריה",
+    "councilName": ""
   },
   {
     "symbol": 4304,
-    "name": "נוב"
+    "name": "נוב",
+    "councilName": "גולן"
   },
   {
     "symbol": 55,
-    "name": "נוגה"
+    "name": "נוגה",
+    "councilName": "לכיש"
   },
   {
     "symbol": 3573,
-    "name": "נוה צוף"
+    "name": "נוה צוף",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 1366,
-    "name": "נווה"
+    "name": "נווה",
+    "councilName": "אשכול"
   },
   {
     "symbol": 926,
-    "name": "נווה אבות"
+    "name": "נווה אבות",
+    "councilName": ""
   },
   {
     "symbol": 590,
-    "name": "נווה אור"
+    "name": "נווה אור",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 4303,
-    "name": "נווה אטי\"ב"
+    "name": "נווה אטי\"ב",
+    "councilName": "גולן"
   },
   {
     "symbol": 405,
-    "name": "נווה אילן"
+    "name": "נווה אילן",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 296,
-    "name": "נווה איתן"
+    "name": "נווה איתן",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 3725,
-    "name": "נווה דניאל"
+    "name": "נווה דניאל",
+    "councilName": "גוש עציון"
   },
   {
     "symbol": 1057,
-    "name": "נווה זוהר"
+    "name": "נווה זוהר",
+    "councilName": "תמר"
   },
   {
     "symbol": 1314,
-    "name": "נווה זיו"
+    "name": "נווה זיו",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 1279,
-    "name": "נווה חריף"
+    "name": "נווה חריף",
+    "councilName": "חבל אילות"
   },
   {
     "symbol": 312,
-    "name": "נווה ים"
+    "name": "נווה ים",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 686,
-    "name": "נווה ימין"
+    "name": "נווה ימין",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 858,
-    "name": "נווה ירק"
+    "name": "נווה ירק",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 827,
-    "name": "נווה מבטח"
+    "name": "נווה מבטח",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 1071,
-    "name": "נווה מיכאל"
+    "name": "נווה מיכאל",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1259,
-    "name": "נווה שלום"
+    "name": "נווה שלום",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 15,
-    "name": "נועם"
+    "name": "נועם",
+    "councilName": "שפיר"
   },
   {
     "symbol": 1333,
-    "name": "נוף איילון"
+    "name": "נוף איילון",
+    "councilName": "גזר"
   },
   {
     "symbol": 1061,
-    "name": "נוף הגליל"
+    "name": "נוף הגליל",
+    "councilName": ""
   },
   {
     "symbol": 3790,
-    "name": "נופים"
+    "name": "נופים",
+    "councilName": "שומרון"
   },
   {
     "symbol": 1284,
-    "name": "נופית"
+    "name": "נופית",
+    "councilName": "זבולון"
   },
   {
     "symbol": 257,
-    "name": "נופך"
+    "name": "נופך",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 3726,
-    "name": "נוקדים"
+    "name": "נוקדים",
+    "councilName": "גוש עציון"
   },
   {
     "symbol": 447,
-    "name": "נורדיה"
+    "name": "נורדיה",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 833,
-    "name": "נורית"
+    "name": "נורית",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 59,
-    "name": "נחושה"
+    "name": "נחושה",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 844,
-    "name": "נחל עוז"
+    "name": "נחל עוז",
+    "councilName": "שער הנגב"
   },
   {
     "symbol": 2045,
-    "name": "נחלה"
+    "name": "נחלה",
+    "councilName": "יואב"
   },
   {
     "symbol": 3767,
-    "name": "נחליאל"
+    "name": "נחליאל",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 449,
-    "name": "נחלים"
+    "name": "נחלים",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 809,
-    "name": "נחם"
+    "name": "נחם",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 522,
-    "name": "נחף"
+    "name": "נחף",
+    "councilName": ""
   },
   {
     "symbol": 433,
-    "name": "נחשולים"
+    "name": "נחשולים",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 777,
-    "name": "נחשון"
+    "name": "נחשון",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 705,
-    "name": "נחשונים"
+    "name": "נחשונים",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 1147,
-    "name": "נטועה"
+    "name": "נטועה",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 4014,
-    "name": "נטור"
+    "name": "נטור",
+    "councilName": "גולן"
   },
   {
     "symbol": 1369,
-    "name": "נטע"
+    "name": "נטע",
+    "councilName": "לכיש"
   },
   {
     "symbol": 174,
-    "name": "נטעים"
+    "name": "נטעים",
+    "councilName": "גן רווה"
   },
   {
     "symbol": 1254,
-    "name": "נטף"
+    "name": "נטף",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 523,
-    "name": "ניין"
+    "name": "ניין",
+    "councilName": "בוסתאן אל-מרג'"
   },
   {
     "symbol": 3655,
-    "name": "ניל\"י"
+    "name": "ניל\"י",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 351,
-    "name": "ניצן"
+    "name": "ניצן",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 1419,
-    "name": "ניצן ב'"
+    "name": "ניצן ב'",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 1195,
-    "name": "ניצנה )קהילת חינוך("
+    "name": "ניצנה )קהילת חינוך(",
+    "councilName": "רמת נגב"
   },
   {
     "symbol": 1280,
-    "name": "ניצני סיני"
+    "name": "ניצני סיני",
+    "councilName": "רמת נגב"
   },
   {
     "symbol": 851,
-    "name": "ניצני עוז"
+    "name": "ניצני עוז",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 359,
-    "name": "ניצנים"
+    "name": "ניצנים",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 808,
-    "name": "ניר אליהו"
+    "name": "ניר אליהו",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 553,
-    "name": "ניר בנים"
+    "name": "ניר בנים",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 720,
-    "name": "ניר גלים"
+    "name": "ניר גלים",
+    "councilName": "חבל יבנה"
   },
   {
     "symbol": 256,
-    "name": "ניר דוד )תל עמל("
+    "name": "ניר דוד )תל עמל(",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 11,
-    "name": "ניר ח\"ן"
+    "name": "ניר ח\"ן",
+    "councilName": "לכיש"
   },
   {
     "symbol": 165,
-    "name": "ניר יפה"
+    "name": "ניר יפה",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 402,
-    "name": "ניר יצחק"
+    "name": "ניר יצחק",
+    "councilName": "אשכול"
   },
   {
     "symbol": 699,
-    "name": "ניר ישראל"
+    "name": "ניר ישראל",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 2047,
-    "name": "ניר משה"
+    "name": "ניר משה",
+    "councilName": "מרחבים"
   },
   {
     "symbol": 69,
-    "name": "ניר עוז"
+    "name": "ניר עוז",
+    "councilName": "אשכול"
   },
   {
     "symbol": 348,
-    "name": "ניר עם"
+    "name": "ניר עם",
+    "councilName": "שער הנגב"
   },
   {
     "symbol": 769,
-    "name": "ניר עציון"
+    "name": "ניר עציון",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 2048,
-    "name": "ניר עקיבא"
+    "name": "ניר עקיבא",
+    "councilName": "מרחבים"
   },
   {
     "symbol": 331,
-    "name": "ניר צבי"
+    "name": "ניר צבי",
+    "councilName": "שדות דן"
   },
   {
     "symbol": 602,
-    "name": "נירים"
+    "name": "נירים",
+    "councilName": "אשכול"
   },
   {
     "symbol": 1236,
-    "name": "נירית"
+    "name": "נירית",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 4035,
-    "name": "נמרוד"
+    "name": "נמרוד",
+    "councilName": "גולן"
   },
   {
     "symbol": 825,
-    "name": "נס הרים"
+    "name": "נס הרים",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1143,
-    "name": "נס עמים"
+    "name": "נס עמים",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 7200,
-    "name": "נס ציונה"
+    "name": "נס ציונה",
+    "councilName": ""
   },
   {
     "symbol": 186,
-    "name": "נעורים"
+    "name": "נעורים",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 3787,
-    "name": "נעלה"
+    "name": "נעלה",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 3713,
-    "name": "נעמ\"ה"
+    "name": "נעמ\"ה",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 158,
-    "name": "נען"
+    "name": "נען",
+    "councilName": "גזר"
   },
   {
     "symbol": 3620,
-    "name": "נערן"
+    "name": "נערן",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 1041,
-    "name": "נצאצרה )שבט("
+    "name": "נצאצרה )שבט(",
+    "councilName": ""
   },
   {
     "symbol": 1372,
-    "name": "נצר חזני"
+    "name": "נצר חזני",
+    "councilName": "נחל שורק"
   },
   {
     "symbol": 435,
-    "name": "נצר סרני"
+    "name": "נצר סרני",
+    "councilName": "גזר"
   },
   {
     "symbol": 7300,
-    "name": "נצרת"
+    "name": "נצרת",
+    "councilName": ""
   },
   {
     "symbol": 2500,
-    "name": "נשר"
+    "name": "נשר",
+    "councilName": ""
   },
   {
     "symbol": 3555,
-    "name": "נתיב הגדוד"
+    "name": "נתיב הגדוד",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 693,
-    "name": "נתיב הל\"ה"
+    "name": "נתיב הל\"ה",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1242,
-    "name": "נתיב העשרה"
+    "name": "נתיב העשרה",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 792,
-    "name": "נתיב השיירה"
+    "name": "נתיב השיירה",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 246,
-    "name": "נתיבות"
+    "name": "נתיבות",
+    "councilName": ""
   },
   {
     "symbol": 7400,
-    "name": "נתניה"
+    "name": "נתניה",
+    "councilName": ""
   },
   {
     "symbol": 525,
-    "name": "סאג'ור"
+    "name": "סאג'ור",
+    "councilName": ""
   },
   {
     "symbol": 578,
-    "name": "סאסא"
+    "name": "סאסא",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 587,
-    "name": "סביון"
+    "name": "סביון",
+    "councilName": ""
   },
   {
     "symbol": 2046,
-    "name": "סגולה"
+    "name": "סגולה",
+    "councilName": "יואב"
   },
   {
     "symbol": 942,
-    "name": "סואעד )חמרייה("
+    "name": "סואעד )חמרייה(",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 989,
-    "name": "סואעד )כמאנה( )שבט("
+    "name": "סואעד )כמאנה( )שבט(",
+    "councilName": ""
   },
   {
     "symbol": 526,
-    "name": "סולם"
+    "name": "סולם",
+    "councilName": "בוסתאן אל-מרג'"
   },
   {
     "symbol": 3756,
-    "name": "סוסיה"
+    "name": "סוסיה",
+    "councilName": "הר חברון"
   },
   {
     "symbol": 1238,
-    "name": "סופה"
+    "name": "סופה",
+    "councilName": "אשכול"
   },
   {
     "symbol": 7500,
-    "name": "סח'נין"
+    "name": "סח'נין",
+    "councilName": ""
   },
   {
     "symbol": 1170,
-    "name": "סייד )שבט("
+    "name": "סייד )שבט(",
+    "councilName": ""
   },
   {
     "symbol": 1245,
-    "name": "סלמה"
+    "name": "סלמה",
+    "councilName": "משגב"
   },
   {
     "symbol": 3567,
-    "name": "סלעית"
+    "name": "סלעית",
+    "councilName": "שומרון"
   },
   {
     "symbol": 1156,
-    "name": "סמר"
+    "name": "סמר",
+    "councilName": "חבל אילות"
   },
   {
     "symbol": 3777,
-    "name": "סנסנה"
+    "name": "סנסנה",
+    "councilName": "הר חברון"
   },
   {
     "symbol": 419,
-    "name": "סעד"
+    "name": "סעד",
+    "councilName": "שדות נגב"
   },
   {
     "symbol": 1360,
-    "name": "סעוה"
+    "name": "סעוה",
+    "councilName": "אל קסום"
   },
   {
     "symbol": 454,
-    "name": "סער"
+    "name": "סער",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 1176,
-    "name": "ספיר"
+    "name": "ספיר",
+    "councilName": "הערבה התיכונה"
   },
   {
     "symbol": 610,
-    "name": "סתריה"
+    "name": "סתריה",
+    "councilName": "גזר"
   },
   {
     "symbol": 4501,
-    "name": "ע'ג'ר"
+    "name": "ע'ג'ר",
+    "councilName": ""
   },
   {
     "symbol": 892,
-    "name": "עבדון"
+    "name": "עבדון",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 376,
-    "name": "עברון"
+    "name": "עברון",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 794,
-    "name": "עגור"
+    "name": "עגור",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1199,
-    "name": "עדי"
+    "name": "עדי",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 2035,
-    "name": "עדנים"
+    "name": "עדנים",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 826,
-    "name": "עוזה"
+    "name": "עוזה",
+    "councilName": "שפיר"
   },
   {
     "symbol": 528,
-    "name": "עוזייר"
+    "name": "עוזייר",
+    "councilName": "אל-בטוף"
   },
   {
     "symbol": 737,
-    "name": "עולש"
+    "name": "עולש",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 666,
-    "name": "עומר"
+    "name": "עומר",
+    "councilName": ""
   },
   {
     "symbol": 810,
-    "name": "עופר"
+    "name": "עופר",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 3617,
-    "name": "עופרה"
+    "name": "עופרה",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 32,
-    "name": "עוצם"
+    "name": "עוצם",
+    "councilName": "לכיש"
   },
   {
     "symbol": 957,
-    "name": "עוקבי )בנו עוקבה("
+    "name": "עוקבי )בנו עוקבה(",
+    "councilName": ""
   },
   {
     "symbol": 328,
-    "name": "עזוז"
+    "name": "עזוז",
+    "councilName": "רמת נגב"
   },
   {
     "symbol": 1149,
-    "name": "עזר"
+    "name": "עזר",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 837,
-    "name": "עזריאל"
+    "name": "עזריאל",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 711,
-    "name": "עזריה"
+    "name": "עזריה",
+    "councilName": "גזר"
   },
   {
     "symbol": 817,
-    "name": "עזריקם"
+    "name": "עזריקם",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 969,
-    "name": "עטאוונה )שבט("
+    "name": "עטאוונה )שבט(",
+    "councilName": ""
   },
   {
     "symbol": 3658,
-    "name": "עטרת"
+    "name": "עטרת",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 1175,
-    "name": "עידן"
+    "name": "עידן",
+    "councilName": "הערבה התיכונה"
   },
   {
     "symbol": 530,
-    "name": "עיילבון"
+    "name": "עיילבון",
+    "councilName": ""
   },
   {
     "symbol": 156,
-    "name": "עיינות"
+    "name": "עיינות",
+    "councilName": "גן רווה"
   },
   {
     "symbol": 511,
-    "name": "עילוט"
+    "name": "עילוט",
+    "councilName": ""
   },
   {
     "symbol": 687,
-    "name": "עין איילה"
+    "name": "עין איילה",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 546,
-    "name": "עין אל-אסד"
+    "name": "עין אל-אסד",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 273,
-    "name": "עין גב"
+    "name": "עין גב",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 2042,
-    "name": "עין גדי"
+    "name": "עין גדי",
+    "councilName": "תמר"
   },
   {
     "symbol": 436,
-    "name": "עין דור"
+    "name": "עין דור",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 1240,
-    "name": "עין הבשור"
+    "name": "עין הבשור",
+    "councilName": "אשכול"
   },
   {
     "symbol": 74,
-    "name": "עין הוד"
+    "name": "עין הוד",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 167,
-    "name": "עין החורש"
+    "name": "עין החורש",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 289,
-    "name": "עין המפרץ"
+    "name": "עין המפרץ",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 383,
-    "name": "עין הנצי\"ב"
+    "name": "עין הנצי\"ב",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 367,
-    "name": "עין העמק"
+    "name": "עין העמק",
+    "councilName": "מגידו"
   },
   {
     "symbol": 270,
-    "name": "עין השופט"
+    "name": "עין השופט",
+    "councilName": "מגידו"
   },
   {
     "symbol": 676,
-    "name": "עין השלושה"
+    "name": "עין השלושה",
+    "councilName": "אשכול"
   },
   {
     "symbol": 157,
-    "name": "עין ורד"
+    "name": "עין ורד",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 4503,
-    "name": "עין זיוון"
+    "name": "עין זיוון",
+    "councilName": "גולן"
   },
   {
     "symbol": 1320,
-    "name": "עין חוד"
+    "name": "עין חוד",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 1053,
-    "name": "עין חצבה"
+    "name": "עין חצבה",
+    "councilName": "תמר"
   },
   {
     "symbol": 89,
-    "name": "עין חרוד )איחוד("
+    "name": "עין חרוד )איחוד(",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 82,
-    "name": "עין חרוד )מאוחד("
+    "name": "עין חרוד )מאוחד(",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 806,
-    "name": "עין יהב"
+    "name": "עין יהב",
+    "councilName": "הערבה התיכונה"
   },
   {
     "symbol": 813,
-    "name": "עין יעקב"
+    "name": "עין יעקב",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 1056,
-    "name": "עין כרם-בי\"ס חקלאי"
+    "name": "עין כרם-בי\"ס חקלאי",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 426,
-    "name": "עין כרמל"
+    "name": "עין כרמל",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 532,
-    "name": "עין מאהל"
+    "name": "עין מאהל",
+    "councilName": ""
   },
   {
     "symbol": 521,
-    "name": "עין נקובא"
+    "name": "עין נקובא",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 223,
-    "name": "עין עירון"
+    "name": "עין עירון",
+    "councilName": "מנשה"
   },
   {
     "symbol": 622,
-    "name": "עין צורים"
+    "name": "עין צורים",
+    "councilName": "שפיר"
   },
   {
     "symbol": 4502,
-    "name": "עין קנייא"
+    "name": "עין קנייא",
+    "councilName": ""
   },
   {
     "symbol": 514,
-    "name": "עין ראפה"
+    "name": "עין ראפה",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 139,
-    "name": "עין שמר"
+    "name": "עין שמר",
+    "councilName": "מנשה"
   },
   {
     "symbol": 880,
-    "name": "עין שריד"
+    "name": "עין שריד",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 1251,
-    "name": "עין תמר"
+    "name": "עין תמר",
+    "councilName": "תמר"
   },
   {
     "symbol": 871,
-    "name": "עינת"
+    "name": "עינת",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 1187,
-    "name": "עיר אובות"
+    "name": "עיר אובות",
+    "councilName": "הערבה התיכונה"
   },
   {
     "symbol": 7600,
-    "name": "עכו"
+    "name": "עכו",
+    "councilName": ""
   },
   {
     "symbol": 1146,
-    "name": "עלומים"
+    "name": "עלומים",
+    "councilName": "שדות נגב"
   },
   {
     "symbol": 3765,
-    "name": "עלי"
+    "name": "עלי",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 3727,
-    "name": "עלי זהב"
+    "name": "עלי זהב",
+    "councilName": "שומרון"
   },
   {
     "symbol": 688,
-    "name": "עלמה"
+    "name": "עלמה",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 3715,
-    "name": "עלמון"
+    "name": "עלמון",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 1212,
-    "name": "עמוקה"
+    "name": "עמוקה",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 3824,
-    "name": "עמיחי"
+    "name": "עמיחי",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 779,
-    "name": "עמינדב"
+    "name": "עמינדב",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 385,
-    "name": "עמיעד"
+    "name": "עמיעד",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 318,
-    "name": "עמיעוז"
+    "name": "עמיעוז",
+    "councilName": "אשכול"
   },
   {
     "symbol": 773,
-    "name": "עמיקם"
+    "name": "עמיקם",
+    "councilName": "אלונה"
   },
   {
     "symbol": 319,
-    "name": "עמיר"
+    "name": "עמיר",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 3660,
-    "name": "עמנואל"
+    "name": "עמנואל",
+    "councilName": ""
   },
   {
     "symbol": 708,
-    "name": "עמקה"
+    "name": "עמקה",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 3712,
-    "name": "ענב"
+    "name": "ענב",
+    "councilName": "שומרון"
   },
   {
     "symbol": 534,
-    "name": "עספיא"
+    "name": "עספיא",
+    "councilName": ""
   },
   {
     "symbol": 7700,
-    "name": "עפולה"
+    "name": "עפולה",
+    "councilName": ""
   },
   {
     "symbol": 3778,
-    "name": "עץ אפרים"
+    "name": "עץ אפרים",
+    "councilName": "שומרון"
   },
   {
     "symbol": 917,
-    "name": "עצמון שגב"
+    "name": "עצמון שגב",
+    "councilName": "משגב"
   },
   {
     "symbol": 531,
-    "name": "עראבה"
+    "name": "עראבה",
+    "councilName": ""
   },
   {
     "symbol": 1246,
-    "name": "עראמשה"
+    "name": "עראמשה",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 1335,
-    "name": "ערב אל נעים"
+    "name": "ערב אל נעים",
+    "councilName": "משגב"
   },
   {
     "symbol": 2560,
-    "name": "ערד"
+    "name": "ערד",
+    "councilName": ""
   },
   {
     "symbol": 593,
-    "name": "ערוגות"
+    "name": "ערוגות",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 637,
-    "name": "ערערה"
+    "name": "ערערה",
+    "councilName": ""
   },
   {
     "symbol": 1192,
-    "name": "ערערה-בנגב"
+    "name": "ערערה-בנגב",
+    "councilName": ""
   },
   {
     "symbol": 591,
-    "name": "עשרת"
+    "name": "עשרת",
+    "councilName": "גדרות"
   },
   {
     "symbol": 53,
-    "name": "עתלית"
+    "name": "עתלית",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 3748,
-    "name": "עתניאל"
+    "name": "עתניאל",
+    "councilName": "הר חברון"
   },
   {
     "symbol": 1151,
-    "name": "פארן"
+    "name": "פארן",
+    "councilName": "הערבה התיכונה"
   },
   {
     "symbol": 3768,
-    "name": "פדואל"
+    "name": "פדואל",
+    "councilName": "שומרון"
   },
   {
     "symbol": 750,
-    "name": "פדויים"
+    "name": "פדויים",
+    "councilName": "מרחבים"
   },
   {
     "symbol": 838,
-    "name": "פדיה"
+    "name": "פדיה",
+    "councilName": "גזר"
   },
   {
     "symbol": 1104,
-    "name": "פוריה - כפר עבודה"
+    "name": "פוריה - כפר עבודה",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 1105,
-    "name": "פוריה - נווה עובד"
+    "name": "פוריה - נווה עובד",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 1313,
-    "name": "פוריה עילית"
+    "name": "פוריה עילית",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 537,
-    "name": "פוריידיס"
+    "name": "פוריידיס",
+    "councilName": ""
   },
   {
     "symbol": 767,
-    "name": "פורת"
+    "name": "פורת",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 749,
-    "name": "פטיש"
+    "name": "פטיש",
+    "councilName": "מרחבים"
   },
   {
     "symbol": 1185,
-    "name": "פלך"
+    "name": "פלך",
+    "councilName": "משגב"
   },
   {
     "symbol": 597,
-    "name": "פלמחים"
+    "name": "פלמחים",
+    "councilName": "גן רווה"
   },
   {
     "symbol": 3723,
-    "name": "פני חבר"
+    "name": "פני חבר",
+    "councilName": "הר חברון"
   },
   {
     "symbol": 3659,
-    "name": "פסגות"
+    "name": "פסגות",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 535,
-    "name": "פסוטה"
+    "name": "פסוטה",
+    "councilName": ""
   },
   {
     "symbol": 2059,
-    "name": "פעמי תש\"ז"
+    "name": "פעמי תש\"ז",
+    "councilName": "מרחבים"
   },
   {
     "symbol": 3615,
-    "name": "פצאל"
+    "name": "פצאל",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 536,
-    "name": "פקיעין )בוקייעה("
+    "name": "פקיעין )בוקייעה(",
+    "councilName": ""
   },
   {
     "symbol": 281,
-    "name": "פקיעין חדשה"
+    "name": "פקיעין חדשה",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 7800,
-    "name": "פרדס חנה-כרכור"
+    "name": "פרדס חנה-כרכור",
+    "councilName": ""
   },
   {
     "symbol": 171,
-    "name": "פרדסיה"
+    "name": "פרדסיה",
+    "councilName": ""
   },
   {
     "symbol": 599,
-    "name": "פרוד"
+    "name": "פרוד",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 2053,
-    "name": "פרזון"
+    "name": "פרזון",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 1231,
-    "name": "פרי גן"
+    "name": "פרי גן",
+    "councilName": "אשכול"
   },
   {
     "symbol": 7900,
-    "name": "פתח תקווה"
+    "name": "פתח תקווה",
+    "councilName": ""
   },
   {
     "symbol": 839,
-    "name": "פתחיה"
+    "name": "פתחיה",
+    "councilName": "גזר"
   },
   {
     "symbol": 413,
-    "name": "צאלים"
+    "name": "צאלים",
+    "councilName": "אשכול"
   },
   {
     "symbol": 1180,
-    "name": "צביה"
+    "name": "צביה",
+    "councilName": "משגב"
   },
   {
     "symbol": 1213,
-    "name": "צבעון"
+    "name": "צבעון",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 465,
-    "name": "צובה"
+    "name": "צובה",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1136,
-    "name": "צוחר"
+    "name": "צוחר",
+    "councilName": "אשכול"
   },
   {
     "symbol": 1111,
-    "name": "צופיה"
+    "name": "צופיה",
+    "councilName": "חבל יבנה"
   },
   {
     "symbol": 3791,
-    "name": "צופים"
+    "name": "צופים",
+    "councilName": "שומרון"
   },
   {
     "symbol": 198,
-    "name": "צופית"
+    "name": "צופית",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 1150,
-    "name": "צופר"
+    "name": "צופר",
+    "councilName": "הערבה התיכונה"
   },
   {
     "symbol": 1102,
-    "name": "צוקי ים"
+    "name": "צוקי ים",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 1262,
-    "name": "צוקים"
+    "name": "צוקים",
+    "councilName": "הערבה התיכונה"
   },
   {
     "symbol": 1113,
-    "name": "צור הדסה"
+    "name": "צור הדסה",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1345,
-    "name": "צור יצחק"
+    "name": "צור יצחק",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 276,
-    "name": "צור משה"
+    "name": "צור משה",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 1148,
-    "name": "צור נתן"
+    "name": "צור נתן",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 774,
-    "name": "צוריאל"
+    "name": "צוריאל",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 1221,
-    "name": "צורית"
+    "name": "צורית",
+    "councilName": "משגב"
   },
   {
     "symbol": 613,
-    "name": "ציפורי"
+    "name": "ציפורי",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 796,
-    "name": "צלפון"
+    "name": "צלפון",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 636,
-    "name": "צנדלה"
+    "name": "צנדלה",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 594,
-    "name": "צפריה"
+    "name": "צפריה",
+    "councilName": "שדות דן"
   },
   {
     "symbol": 1079,
-    "name": "צפרירים"
+    "name": "צפרירים",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 8000,
-    "name": "צפת"
+    "name": "צפת",
+    "councilName": ""
   },
   {
     "symbol": 612,
-    "name": "צרופה"
+    "name": "צרופה",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 567,
-    "name": "צרעה"
+    "name": "צרעה",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1234,
-    "name": "קבועה )שבט("
+    "name": "קבועה )שבט(",
+    "councilName": ""
   },
   {
     "symbol": 334,
-    "name": "קבוצת יבנה"
+    "name": "קבוצת יבנה",
+    "councilName": "חבל יבנה"
   },
   {
     "symbol": 3557,
-    "name": "קדומים"
+    "name": "קדומים",
+    "councilName": ""
   },
   {
     "symbol": 195,
-    "name": "קדימה-צורן"
+    "name": "קדימה-צורן",
+    "councilName": ""
   },
   {
     "symbol": 392,
-    "name": "קדמה"
+    "name": "קדמה",
+    "councilName": "יואב"
   },
   {
     "symbol": 4025,
-    "name": "קדמת צבי"
+    "name": "קדמת צבי",
+    "councilName": "גולן"
   },
   {
     "symbol": 3781,
-    "name": "קדר"
+    "name": "קדר",
+    "councilName": "גוש עציון"
   },
   {
     "symbol": 615,
-    "name": "קדרון"
+    "name": "קדרון",
+    "councilName": "ברנר"
   },
   {
     "symbol": 1211,
-    "name": "קדרים"
+    "name": "קדרים",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 964,
-    "name": "קודייראת א-צאנע)שבט("
+    "name": "קודייראת א-צאנע)שבט(",
+    "councilName": ""
   },
   {
     "symbol": 972,
-    "name": "קוואעין )שבט("
+    "name": "קוואעין )שבט(",
+    "councilName": ""
   },
   {
     "symbol": 766,
-    "name": "קוממיות"
+    "name": "קוממיות",
+    "councilName": "שפיר"
   },
   {
     "symbol": 1179,
-    "name": "קורנית"
+    "name": "קורנית",
+    "councilName": "משגב"
   },
   {
     "symbol": 1052,
-    "name": "קטורה"
+    "name": "קטורה",
+    "councilName": "חבל אילות"
   },
   {
     "symbol": 1167,
-    "name": "קיסריה"
+    "name": "קיסריה",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 414,
-    "name": "קלחים"
+    "name": "קלחים",
+    "councilName": "מרחבים"
   },
   {
     "symbol": 3601,
-    "name": "קליה"
+    "name": "קליה",
+    "councilName": "מגילות ים המלח"
   },
   {
     "symbol": 638,
-    "name": "קלנסווה"
+    "name": "קלנסווה",
+    "councilName": ""
   },
   {
     "symbol": 4024,
-    "name": "קלע"
+    "name": "קלע",
+    "councilName": "גולן"
   },
   {
     "symbol": 1243,
-    "name": "קציר"
+    "name": "קציר",
+    "councilName": "מנשה"
   },
   {
     "symbol": 1347,
-    "name": "קצר א-סר"
+    "name": "קצר א-סר",
+    "councilName": "נווה מדבר"
   },
   {
     "symbol": 4100,
-    "name": "קצרין"
+    "name": "קצרין",
+    "councilName": ""
   },
   {
     "symbol": 2620,
-    "name": "קרית אונו"
+    "name": "קרית אונו",
+    "councilName": ""
   },
   {
     "symbol": 3611,
-    "name": "קרית ארבע"
+    "name": "קרית ארבע",
+    "councilName": ""
   },
   {
     "symbol": 6800,
-    "name": "קרית אתא"
+    "name": "קרית אתא",
+    "councilName": ""
   },
   {
     "symbol": 9500,
-    "name": "קרית ביאליק"
+    "name": "קרית ביאליק",
+    "councilName": ""
   },
   {
     "symbol": 2630,
-    "name": "קרית גת"
+    "name": "קרית גת",
+    "councilName": ""
   },
   {
     "symbol": 2300,
-    "name": "קרית טבעון"
+    "name": "קרית טבעון",
+    "councilName": ""
   },
   {
     "symbol": 9600,
-    "name": "קרית ים"
+    "name": "קרית ים",
+    "councilName": ""
   },
   {
     "symbol": 1137,
-    "name": "קרית יערים"
+    "name": "קרית יערים",
+    "councilName": ""
   },
   {
     "symbol": 2039,
-    "name": "קרית יערים)מוסד("
+    "name": "קרית יערים)מוסד(",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 8200,
-    "name": "קרית מוצקין"
+    "name": "קרית מוצקין",
+    "councilName": ""
   },
   {
     "symbol": 1034,
-    "name": "קרית מלאכי"
+    "name": "קרית מלאכי",
+    "councilName": ""
   },
   {
     "symbol": 3746,
-    "name": "קרית נטפים"
+    "name": "קרית נטפים",
+    "councilName": "שומרון"
   },
   {
     "symbol": 78,
-    "name": "קרית ענבים"
+    "name": "קרית ענבים",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 469,
-    "name": "קרית עקרון"
+    "name": "קרית עקרון",
+    "councilName": ""
   },
   {
     "symbol": 412,
-    "name": "קרית שלמה"
+    "name": "קרית שלמה",
+    "councilName": "חוף השרון"
   },
   {
     "symbol": 2800,
-    "name": "קרית שמונה"
+    "name": "קרית שמונה",
+    "councilName": ""
   },
   {
     "symbol": 3640,
-    "name": "קרני שומרון"
+    "name": "קרני שומרון",
+    "councilName": ""
   },
   {
     "symbol": 4006,
-    "name": "קשת"
+    "name": "קשת",
+    "councilName": "גולן"
   },
   {
     "symbol": 543,
-    "name": "ראמה"
+    "name": "ראמה",
+    "councilName": ""
   },
   {
     "symbol": 1334,
-    "name": "ראס אל-עין"
+    "name": "ראס אל-עין",
+    "councilName": "משגב"
   },
   {
     "symbol": 990,
-    "name": "ראס עלי"
+    "name": "ראס עלי",
+    "councilName": "זבולון"
   },
   {
     "symbol": 2640,
-    "name": "ראש העין"
+    "name": "ראש העין",
+    "councilName": ""
   },
   {
     "symbol": 26,
-    "name": "ראש פינה"
+    "name": "ראש פינה",
+    "councilName": ""
   },
   {
     "symbol": 3602,
-    "name": "ראש צורים"
+    "name": "ראש צורים",
+    "councilName": "גוש עציון"
   },
   {
     "symbol": 8300,
-    "name": "ראשון לציון"
+    "name": "ראשון לציון",
+    "councilName": ""
   },
   {
     "symbol": 3795,
-    "name": "רבבה"
+    "name": "רבבה",
+    "councilName": "שומרון"
   },
   {
     "symbol": 564,
-    "name": "רבדים"
+    "name": "רבדים",
+    "councilName": "יואב"
   },
   {
     "symbol": 354,
-    "name": "רביבים"
+    "name": "רביבים",
+    "councilName": "רמת נגב"
   },
   {
     "symbol": 1225,
-    "name": "רביד"
+    "name": "רביד",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 390,
-    "name": "רגבה"
+    "name": "רגבה",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 444,
-    "name": "רגבים"
+    "name": "רגבים",
+    "councilName": "מנשה"
   },
   {
     "symbol": 1161,
-    "name": "רהט"
+    "name": "רהט",
+    "councilName": ""
   },
   {
     "symbol": 2051,
-    "name": "רווחה"
+    "name": "רווחה",
+    "councilName": "שפיר"
   },
   {
     "symbol": 2016,
-    "name": "רוויה"
+    "name": "רוויה",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 1341,
-    "name": "רוח מדבר"
+    "name": "רוח מדבר",
+    "councilName": "רמת נגב"
   },
   {
     "symbol": 362,
-    "name": "רוחמה"
+    "name": "רוחמה",
+    "councilName": "שער הנגב"
   },
   {
     "symbol": 539,
-    "name": "רומאנה"
+    "name": "רומאנה",
+    "councilName": "אל-בטוף"
   },
   {
     "symbol": 997,
-    "name": "רומת הייב"
+    "name": "רומת הייב",
+    "councilName": "אל-בטוף"
   },
   {
     "symbol": 3619,
-    "name": "רועי"
+    "name": "רועי",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 3782,
-    "name": "רותם"
+    "name": "רותם",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 854,
-    "name": "רחוב"
+    "name": "רחוב",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 8400,
-    "name": "רחובות"
+    "name": "רחובות",
+    "councilName": ""
   },
   {
     "symbol": 3822,
-    "name": "רחלים"
+    "name": "רחלים",
+    "councilName": "שומרון"
   },
   {
     "symbol": 540,
-    "name": "ריחאניה"
+    "name": "ריחאניה",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 3568,
-    "name": "ריחן"
+    "name": "ריחן",
+    "councilName": "שומרון"
   },
   {
     "symbol": 542,
-    "name": "ריינה"
+    "name": "ריינה",
+    "councilName": ""
   },
   {
     "symbol": 3565,
-    "name": "רימונים"
+    "name": "רימונים",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 616,
-    "name": "רינתיה"
+    "name": "רינתיה",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 922,
-    "name": "רכסים"
+    "name": "רכסים",
+    "councilName": ""
   },
   {
     "symbol": 1069,
-    "name": "רם-און"
+    "name": "רם-און",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 4702,
-    "name": "רמות"
+    "name": "רמות",
+    "councilName": "גולן"
   },
   {
     "symbol": 206,
-    "name": "רמות השבים"
+    "name": "רמות השבים",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 735,
-    "name": "רמות מאיר"
+    "name": "רמות מאיר",
+    "councilName": "גזר"
   },
   {
     "symbol": 445,
-    "name": "רמות מנשה"
+    "name": "רמות מנשה",
+    "councilName": "מגידו"
   },
   {
     "symbol": 372,
-    "name": "רמות נפתלי"
+    "name": "רמות נפתלי",
+    "councilName": "מבואות החרמון"
   },
   {
     "symbol": 8500,
-    "name": "רמלה"
+    "name": "רמלה",
+    "councilName": ""
   },
   {
     "symbol": 8600,
-    "name": "רמת גן"
+    "name": "רמת גן",
+    "councilName": ""
   },
   {
     "symbol": 135,
-    "name": "רמת דוד"
+    "name": "רמת דוד",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 184,
-    "name": "רמת הכובש"
+    "name": "רמת הכובש",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 335,
-    "name": "רמת השופט"
+    "name": "רמת השופט",
+    "councilName": "מגידו"
   },
   {
     "symbol": 2650,
-    "name": "רמת השרון"
+    "name": "רמת השרון",
+    "councilName": ""
   },
   {
     "symbol": 178,
-    "name": "רמת יוחנן"
+    "name": "רמת יוחנן",
+    "councilName": "זבולון"
   },
   {
     "symbol": 122,
-    "name": "רמת ישי"
+    "name": "רמת ישי",
+    "councilName": ""
   },
   {
     "symbol": 4701,
-    "name": "רמת מגשימים"
+    "name": "רמת מגשימים",
+    "councilName": "גולן"
   },
   {
     "symbol": 339,
-    "name": "רמת צבי"
+    "name": "רמת צבי",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 460,
-    "name": "רמת רזיאל"
+    "name": "רמת רזיאל",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 127,
-    "name": "רמת רחל"
+    "name": "רמת רחל",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 789,
-    "name": "רנן"
+    "name": "רנן",
+    "councilName": "מרחבים"
   },
   {
     "symbol": 713,
-    "name": "רעים"
+    "name": "רעים",
+    "councilName": "אשכול"
   },
   {
     "symbol": 8700,
-    "name": "רעננה"
+    "name": "רעננה",
+    "councilName": ""
   },
   {
     "symbol": 1228,
-    "name": "רקפת"
+    "name": "רקפת",
+    "councilName": "משגב"
   },
   {
     "symbol": 247,
-    "name": "רשפון"
+    "name": "רשפון",
+    "councilName": "חוף השרון"
   },
   {
     "symbol": 437,
-    "name": "רשפים"
+    "name": "רשפים",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 1260,
-    "name": "רתמים"
+    "name": "רתמים",
+    "councilName": "רמת נגב"
   },
   {
     "symbol": 324,
-    "name": "שאר ישוב"
+    "name": "שאר ישוב",
+    "councilName": "מבואות החרמון"
   },
   {
     "symbol": 1377,
-    "name": "שבי דרום"
+    "name": "שבי דרום",
+    "councilName": "מרחבים"
   },
   {
     "symbol": 282,
-    "name": "שבי ציון"
+    "name": "שבי ציון",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 3571,
-    "name": "שבי שומרון"
+    "name": "שבי שומרון",
+    "councilName": "שומרון"
   },
   {
     "symbol": 913,
-    "name": "שבלי - אום אל-גנם"
+    "name": "שבלי - אום אל-גנם",
+    "councilName": ""
   },
   {
     "symbol": 1286,
-    "name": "שגב-שלום"
+    "name": "שגב-שלום",
+    "councilName": ""
   },
   {
     "symbol": 721,
-    "name": "שדה אילן"
+    "name": "שדה אילן",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 304,
-    "name": "שדה אליהו"
+    "name": "שדה אליהו",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 861,
-    "name": "שדה אליעזר"
+    "name": "שדה אליעזר",
+    "councilName": "מבואות החרמון"
   },
   {
     "symbol": 885,
-    "name": "שדה בוקר"
+    "name": "שדה בוקר",
+    "councilName": "רמת נגב"
   },
   {
     "symbol": 36,
-    "name": "שדה דוד"
+    "name": "שדה דוד",
+    "councilName": "לכיש"
   },
   {
     "symbol": 284,
-    "name": "שדה ורבורג"
+    "name": "שדה ורבורג",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 293,
-    "name": "שדה יואב"
+    "name": "שדה יואב",
+    "councilName": "יואב"
   },
   {
     "symbol": 142,
-    "name": "שדה יעקב"
+    "name": "שדה יעקב",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 2008,
-    "name": "שדה יצחק"
+    "name": "שדה יצחק",
+    "councilName": "מנשה"
   },
   {
     "symbol": 18,
-    "name": "שדה משה"
+    "name": "שדה משה",
+    "councilName": "לכיש"
   },
   {
     "symbol": 259,
-    "name": "שדה נחום"
+    "name": "שדה נחום",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 329,
-    "name": "שדה נחמיה"
+    "name": "שדה נחמיה",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 1058,
-    "name": "שדה ניצן"
+    "name": "שדה ניצן",
+    "councilName": "אשכול"
   },
   {
     "symbol": 739,
-    "name": "שדה עוזיהו"
+    "name": "שדה עוזיהו",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 2049,
-    "name": "שדה צבי"
+    "name": "שדה צבי",
+    "councilName": "מרחבים"
   },
   {
     "symbol": 327,
-    "name": "שדות ים"
+    "name": "שדות ים",
+    "councilName": "חוף הכרמל"
   },
   {
     "symbol": 27,
-    "name": "שדות מיכה"
+    "name": "שדות מיכה",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1223,
-    "name": "שדי אברהם"
+    "name": "שדי אברהם",
+    "councilName": "אשכול"
   },
   {
     "symbol": 2015,
-    "name": "שדי חמד"
+    "name": "שדי חמד",
+    "councilName": "דרום השרון"
   },
   {
     "symbol": 2057,
-    "name": "שדי תרומות"
+    "name": "שדי תרומות",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 555,
-    "name": "שדמה"
+    "name": "שדמה",
+    "councilName": "גדרות"
   },
   {
     "symbol": 306,
-    "name": "שדמות דבורה"
+    "name": "שדמות דבורה",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 3578,
-    "name": "שדמות מחולה"
+    "name": "שדמות מחולה",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 1031,
-    "name": "שדרות"
+    "name": "שדרות",
+    "councilName": ""
   },
   {
     "symbol": 741,
-    "name": "שואבה"
+    "name": "שואבה",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 761,
-    "name": "שובה"
+    "name": "שובה",
+    "councilName": "שדות נגב"
   },
   {
     "symbol": 394,
-    "name": "שובל"
+    "name": "שובל",
+    "councilName": "בני שמעון"
   },
   {
     "symbol": 1304,
-    "name": "שוהם"
+    "name": "שוהם",
+    "councilName": ""
   },
   {
     "symbol": 614,
-    "name": "שומרה"
+    "name": "שומרה",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 1265,
-    "name": "שומריה"
+    "name": "שומריה",
+    "councilName": "בני שמעון"
   },
   {
     "symbol": 415,
-    "name": "שוקדה"
+    "name": "שוקדה",
+    "councilName": "שדות נגב"
   },
   {
     "symbol": 456,
-    "name": "שורש"
+    "name": "שורש",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 1235,
-    "name": "שורשים"
+    "name": "שורשים",
+    "councilName": "משגב"
   },
   {
     "symbol": 224,
-    "name": "שושנת העמקים"
+    "name": "שושנת העמקים",
+    "councilName": "עמק חפר"
   },
   {
     "symbol": 527,
-    "name": "שזור"
+    "name": "שזור",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 7,
-    "name": "שחר"
+    "name": "שחר",
+    "councilName": "לכיש"
   },
   {
     "symbol": 1266,
-    "name": "שחרות"
+    "name": "שחרות",
+    "councilName": "חבל אילות"
   },
   {
     "symbol": 865,
-    "name": "שיבולים"
+    "name": "שיבולים",
+    "councilName": "שדות נגב"
   },
   {
     "symbol": 1267,
-    "name": "שיטים"
+    "name": "שיטים",
+    "councilName": "חבל אילות"
   },
   {
     "symbol": 658,
-    "name": "שייח' דנון"
+    "name": "שייח' דנון",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 3641,
-    "name": "שילה"
+    "name": "שילה",
+    "councilName": "מטה בנימין"
   },
   {
     "symbol": 1165,
-    "name": "שילת"
+    "name": "שילת",
+    "councilName": "חבל מודיעין"
   },
   {
     "symbol": 1160,
-    "name": "שכניה"
+    "name": "שכניה",
+    "councilName": "משגב"
   },
   {
     "symbol": 873,
-    "name": "שלווה"
+    "name": "שלווה",
+    "councilName": "שפיר"
   },
   {
     "symbol": 1373,
-    "name": "שלווה במדבר"
+    "name": "שלווה במדבר",
+    "councilName": "רמת נגב"
   },
   {
     "symbol": 439,
-    "name": "שלוחות"
+    "name": "שלוחות",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 812,
-    "name": "שלומי"
+    "name": "שלומי",
+    "councilName": ""
   },
   {
     "symbol": 1364,
-    "name": "שלומית"
+    "name": "שלומית",
+    "councilName": "אשכול"
   },
   {
     "symbol": 366,
-    "name": "שמיר"
+    "name": "שמיר",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 3784,
-    "name": "שמעה"
+    "name": "שמעה",
+    "councilName": "הר חברון"
   },
   {
     "symbol": 432,
-    "name": "שמרת"
+    "name": "שמרת",
+    "councilName": "מטה אשר"
   },
   {
     "symbol": 1337,
-    "name": "שמשית"
+    "name": "שמשית",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 1287,
-    "name": "שני"
+    "name": "שני",
+    "councilName": "הר חברון"
   },
   {
     "symbol": 1132,
-    "name": "שניר"
+    "name": "שניר",
+    "councilName": "הגליל העליון"
   },
   {
     "symbol": 538,
-    "name": "שעב"
+    "name": "שעב",
+    "councilName": ""
   },
   {
     "symbol": 1299,
-    "name": "שעורים"
+    "name": "שעורים",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 4009,
-    "name": "שעל"
+    "name": "שעל",
+    "councilName": "גולן"
   },
   {
     "symbol": 856,
-    "name": "שעלבים"
+    "name": "שעלבים",
+    "councilName": "גזר"
   },
   {
     "symbol": 661,
-    "name": "שער אפרים"
+    "name": "שער אפרים",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 264,
-    "name": "שער הגולן"
+    "name": "שער הגולן",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 237,
-    "name": "שער העמקים"
+    "name": "שער העמקים",
+    "councilName": "זבולון"
   },
   {
     "symbol": 921,
-    "name": "שער מנשה"
+    "name": "שער מנשה",
+    "councilName": "מנשה"
   },
   {
     "symbol": 3720,
-    "name": "שערי תקווה"
+    "name": "שערי תקווה",
+    "councilName": "שומרון"
   },
   {
     "symbol": 232,
-    "name": "שפיים"
+    "name": "שפיים",
+    "councilName": "חוף השרון"
   },
   {
     "symbol": 692,
-    "name": "שפיר"
+    "name": "שפיר",
+    "councilName": "שפיר"
   },
   {
     "symbol": 846,
-    "name": "שפר"
+    "name": "שפר",
+    "councilName": "מרום הגליל"
   },
   {
     "symbol": 8800,
-    "name": "שפרעם"
+    "name": "שפרעם",
+    "councilName": ""
   },
   {
     "symbol": 3649,
-    "name": "שקד"
+    "name": "שקד",
+    "councilName": "שומרון"
   },
   {
     "symbol": 1233,
-    "name": "שקף"
+    "name": "שקף",
+    "councilName": "לכיש"
   },
   {
     "symbol": 292,
-    "name": "שרונה"
+    "name": "שרונה",
+    "councilName": "הגליל התחתון"
   },
   {
     "symbol": 1114,
-    "name": "שריגים )לי-און("
+    "name": "שריגים )לי-און(",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 126,
-    "name": "שריד"
+    "name": "שריד",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 398,
-    "name": "שרשרת"
+    "name": "שרשרת",
+    "councilName": "שדות נגב"
   },
   {
     "symbol": 1045,
-    "name": "שתולה"
+    "name": "שתולה",
+    "councilName": "מעלה יוסף"
   },
   {
     "symbol": 763,
-    "name": "שתולים"
+    "name": "שתולים",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 2062,
-    "name": "תאשור"
+    "name": "תאשור",
+    "councilName": "בני שמעון"
   },
   {
     "symbol": 2061,
-    "name": "תדהר"
+    "name": "תדהר",
+    "councilName": "בני שמעון"
   },
   {
     "symbol": 1172,
-    "name": "תובל"
+    "name": "תובל",
+    "councilName": "משגב"
   },
   {
     "symbol": 3558,
-    "name": "תומר"
+    "name": "תומר",
+    "councilName": "ערבות הירדן"
   },
   {
     "symbol": 1083,
-    "name": "תושיה"
+    "name": "תושיה",
+    "councilName": "שדות נגב"
   },
   {
     "symbol": 163,
-    "name": "תימורים"
+    "name": "תימורים",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 10,
-    "name": "תירוש"
+    "name": "תירוש",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 5000,
-    "name": "תל אביב - יפו"
+    "name": "תל אביב - יפו",
+    "councilName": ""
   },
   {
     "symbol": 84,
-    "name": "תל יוסף"
+    "name": "תל יוסף",
+    "councilName": "הגלבוע"
   },
   {
     "symbol": 287,
-    "name": "תל יצחק"
+    "name": "תל יצחק",
+    "councilName": "חוף השרון"
   },
   {
     "symbol": 154,
-    "name": "תל מונד"
+    "name": "תל מונד",
+    "councilName": ""
   },
   {
     "symbol": 103,
-    "name": "תל עדשים"
+    "name": "תל עדשים",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 719,
-    "name": "תל קציר"
+    "name": "תל קציר",
+    "councilName": "עמק הירדן"
   },
   {
     "symbol": 1054,
-    "name": "תל שבע"
+    "name": "תל שבע",
+    "councilName": ""
   },
   {
     "symbol": 1283,
-    "name": "תל תאומים"
+    "name": "תל תאומים",
+    "councilName": "עמק המעיינות"
   },
   {
     "symbol": 3719,
-    "name": "תלם"
+    "name": "תלם",
+    "councilName": "הר חברון"
   },
   {
     "symbol": 1051,
-    "name": "תלמי אליהו"
+    "name": "תלמי אליהו",
+    "councilName": "אשכול"
   },
   {
     "symbol": 2003,
-    "name": "תלמי אלעזר"
+    "name": "תלמי אלעזר",
+    "councilName": "מנשה"
   },
   {
     "symbol": 2050,
-    "name": "תלמי ביל\"ו"
+    "name": "תלמי ביל\"ו",
+    "councilName": "מרחבים"
   },
   {
     "symbol": 1237,
-    "name": "תלמי יוסף"
+    "name": "תלמי יוסף",
+    "councilName": "אשכול"
   },
   {
     "symbol": 727,
-    "name": "תלמי יחיאל"
+    "name": "תלמי יחיאל",
+    "councilName": "באר טוביה"
   },
   {
     "symbol": 744,
-    "name": "תלמי יפה"
+    "name": "תלמי יפה",
+    "councilName": "חוף אשקלון"
   },
   {
     "symbol": 814,
-    "name": "תלמים"
+    "name": "תלמים",
+    "councilName": "לכיש"
   },
   {
     "symbol": 1244,
-    "name": "תמרת"
+    "name": "תמרת",
+    "councilName": "עמק יזרעאל"
   },
   {
     "symbol": 2002,
-    "name": "תנובות"
+    "name": "תנובות",
+    "councilName": "לב השרון"
   },
   {
     "symbol": 752,
-    "name": "תעוז"
+    "name": "תעוז",
+    "councilName": "מטה יהודה"
   },
   {
     "symbol": 709,
-    "name": "תפרח"
+    "name": "תפרח",
+    "councilName": "מרחבים"
   },
   {
     "symbol": 665,
-    "name": "תקומה"
+    "name": "תקומה",
+    "councilName": "שדות נגב"
   },
   {
     "symbol": 3563,
-    "name": "תקוע"
+    "name": "תקוע",
+    "councilName": "גוש עציון"
   },
   {
     "symbol": 970,
-    "name": "תראבין א-צאנע )שבט("
+    "name": "תראבין א-צאנע )שבט(",
+    "councilName": ""
   },
   {
     "symbol": 1346,
-    "name": "תראבין א-צאנע)ישוב("
+    "name": "תראבין א-צאנע)ישוב(",
+    "councilName": "אל קסום"
   },
   {
     "symbol": 778,
-    "name": "ת ם"
+    "name": "ת ם",
+    "councilName": "מטה יהודה"
   }
 ]

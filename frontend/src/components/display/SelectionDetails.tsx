@@ -11,6 +11,7 @@ interface SelectionDetailsProps {
   city: {
     symbol: number;
     name: string;
+    councilName: string;
   } | null;
   street: {
     id: number;
@@ -69,6 +70,15 @@ export function SelectionDetails({ city, street }: SelectionDetailsProps) {
             <p className="text-lg font-mono">{city.symbol}</p>
           </div>
         </div>
+        {city.councilName && city.councilName.trim() !== "" && (
+          <div className="flex items-start gap-3">
+            <Building2 className="h-5 w-5 text-gray-500 mt-0.5" />
+            <div>
+              <p className="text-sm font-medium text-gray-500">שם מועצה</p>
+              <p className="text-lg font-semibold">{city.councilName}</p>
+            </div>
+          </div>
+        )}
       </CardContent>
     </Card>
   );

@@ -1,10 +1,10 @@
-# Alline Assignment
+# Allin Assignment
 
 A small mono-repo containing a DB ETL script (Prisma + Postgres) and a Next.js frontend with filtering + search on the data + caching for quick performance
 
 ## Overview 
 - **db-setup-script/** — ETL, Prisma schema, and Docker Compose for Postgres.
-- **frontend/** — Next.js app that reads a cached `cities_cache.json` produced by the ETL.
+- **frontend/** — Next.js app that acts as a frontend, search & filtering, displays query
 
 ## Prerequisites 
 - Docker & Docker Compose
@@ -16,7 +16,7 @@ A small mono-repo containing a DB ETL script (Prisma + Postgres) and a Next.js f
 
 ```env
 # Database connection string
-DATABASE_URL="postgresql://alline:alline123@localhost:5432/alline_db?schema=public"
+DATABASE_URL="postgresql://allin:allin123@localhost:5432/allin_db?schema=public"
 ```
 
 Note: to avoid duplication, this repo uses the **root `.env`** for both packages — package scripts explicitly load it (for example via `dotenv -e ../.env -- <command>`), so no symlinks are required.

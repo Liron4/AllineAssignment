@@ -44,6 +44,7 @@ interface RawStreet {
 interface NormalizedCity {
   symbol: number;
   name: string;
+  councilName: string;
 }
 
 interface NormalizedStreet {
@@ -58,6 +59,7 @@ function normalizeCity(rawCity: RawCity): NormalizedCity {
       ? parseInt(cleaned.סמל_ישוב, 10) 
       : cleaned.סמל_ישוב,
     name: cleaned.שם_ישוב,
+    councilName: cleaned.שם_מועצה || '',
   };
 }
 
@@ -76,6 +78,7 @@ function exportCitiesCache(normalizedCities: NormalizedCity[]): void {
   const cacheData = normalizedCities.map(city => ({
     symbol: city.symbol,
     name: city.name,
+    councilName: city.councilName,
   }));
 
   const outputDir = path.join(__dirname, '..', 'frontend', 'src', 'data');
