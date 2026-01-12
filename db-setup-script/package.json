@@ -1,0 +1,37 @@
+{
+  "name": "alline-assignment",
+  "version": "1.0.0",
+  "description": "Cities and Streets ETL with Prisma and PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "db:up": "docker-compose up -d",
+    "db:down": "docker-compose down",
+    "db:reset": "docker-compose down -v && docker-compose up -d",
+    "prisma:generate": "dotenv -e ../.env -- prisma generate",
+    "prisma:migrate": "dotenv -e ../.env -- prisma migrate dev --name init",
+    "prisma:push": "dotenv -e ../.env -- prisma db push",
+    "prisma:studio": "dotenv -e ../.env -- prisma studio",
+    "etl": "dotenv -e ../.env -- npx ts-node etl.ts",
+    "setup": "npm run db:up && sleep 3 && npm run prisma:push && npm run etl"
+  },
+  "keywords": [
+    "etl",
+    "prisma",
+    "postgres",
+    "cities",
+    "streets"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.8.0",
+    "dotenv": "^17.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "dotenv-cli": "^11.0.0",
+    "prisma": "^5.8.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.0"
+  }
+}

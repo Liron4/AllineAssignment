@@ -1,0 +1,34 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model City {
+  id      Int      @id @default(autoincrement())
+  symbol  Int      @unique
+  name    String
+
+  streets Street[]
+
+  @@index([name], type: BTree)
+  @@map("cities")
+}
+
+model Street {
+  id         Int    @id @default(autoincrement())
+  citySymbol Int    @map("city_symbol")
+  name       String
+
+  city City @relation(fields: [citySymbol], references: [symbol])
+
+  @@index([name], type: BTree)
+  @@index([citySymbol])
+  @@map("streets")
+}
